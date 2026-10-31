@@ -29,7 +29,8 @@ jobs:
         run: flutter gen-l10n
 
       - name: Kiểm tra định dạng code
-        run: dart format --output=none --set-exit-if-changed -l 120 lib test
+        # Bỏ qua lib/l10n: code do gen-l10n tự sinh.
+        run: dart format --output=none --set-exit-if-changed -l 120 $(find lib test -name '*.dart' -not -path 'lib/l10n/*')
 
       - name: Phân tích tĩnh
         run: flutter analyze
