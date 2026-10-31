@@ -1,0 +1,2795 @@
+{
+  "@@locale": "vi",
+  "authPwRuleLength": "Ít nhất 8 ký tự",
+  "authPwRuleUpper": "Ít nhất 1 chữ in hoa",
+  "authPwRuleLower": "Ít nhất 1 chữ thường",
+  "authPwRuleDigit": "Ít nhất 1 chữ số",
+  "authContinueWithApple": "Tiếp tục với Apple",
+  "authContinueWithGoogle": "Tiếp tục với Google",
+  "authContinueWithFacebook": "Tiếp tục với Facebook",
+  "authTermsPrefix": "Bằng việc tham gia, bạn đồng ý với ",
+  "authTermsLink": "Điều khoản dịch vụ",
+  "authTermsSuffix": " của VietGig.",
+  "authTermsBody": "1. Bạn chịu trách nhiệm về thông tin tài khoản và bảo mật mật khẩu.\n\n2. Mọi giao dịch phải được thực hiện qua VietGig để được bảo vệ thanh toán.\n\n3. Nghiêm cấm đăng tải nội dung vi phạm pháp luật Việt Nam hoặc quyền sở hữu trí tuệ.\n\n4. VietGig có quyền tạm khoá tài khoản vi phạm chính sách cộng đồng.\n\n5. Dữ liệu cá nhân được xử lý theo Chính sách quyền riêng tư.",
+  "authSkip": "Bỏ qua",
+  "authContinue": "Tiếp tục",
+  "authFinish": "Hoàn tất",
+  "authClear": "Xoá",
+  "authShowPassword": "Hiện mật khẩu",
+  "authHidePassword": "Ẩn mật khẩu",
+  "authPasswordHint": "Mật khẩu",
+  "authEmailHint": "Email",
+  "authResendEmail": "Gửi lại email",
+  "authWelcomeHeadline": "Dịch vụ freelance.\nTheo yêu cầu.",
+  "authWelcomeBuyTitle": "Tìm dịch vụ",
+  "authWelcomeBuySubtitle": "Tôi đang tìm freelancer tài năng để hợp tác",
+  "authWelcomeSellTitle": "Bán dịch vụ",
+  "authWelcomeSellSubtitle": "Tôi muốn cung cấp dịch vụ của mình",
+  "authSignInTitle": "Đăng nhập vào tài khoản",
+  "authSignInSubtitle": "Chào mừng bạn quay lại VietGig!",
+  "authIdHint": "Email hoặc tên người dùng",
+  "authIdRequired": "Vui lòng nhập email hoặc tên người dùng",
+  "authPasswordRequired": "Vui lòng nhập mật khẩu",
+  "authForgotLink": "Quên mật khẩu?",
+  "authNoAccount": "Chưa có tài khoản? ",
+  "authJoinNow": "Tham gia ngay",
+  "authDemoAccount": "Tài khoản dùng thử: {email} / {password}",
+  "@authDemoAccount": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      },
+      "password": {
+        "type": "String"
+      }
+    }
+  },
+  "authFill": "Điền",
+  "authSignUpTitle": "Tham gia VietGig",
+  "authSignUpSubtitle": "Có thể cần xác minh bổ sung ở bước sau.",
+  "authUsernameHint": "Tên người dùng công khai",
+  "authUsernameInvalid": "4–20 ký tự: chữ không dấu, số, \"_\" hoặc \".\"",
+  "authUsernameNote": "Bạn không thể đổi tên người dùng sau này, hãy chọn thật kỹ.",
+  "authEmailInvalid": "Email không hợp lệ",
+  "authSignUpSubmit": "Đăng ký",
+  "authHaveAccount": "Đã có tài khoản? ",
+  "authOnbPurposeWork": "Công việc hoặc kinh doanh chính",
+  "authOnbPurposeWorkDesc": "Dự án cho công ty bạn đang làm hoặc cho việc kinh doanh của riêng bạn.",
+  "authOnbPurposeSide": "Dự án phụ hoặc kinh doanh nhỏ",
+  "authOnbPurposeSideDesc": "Bất cứ việc gì bạn làm ngoài công việc chính, như một dự án tay trái.",
+  "authOnbPurposePersonal": "Mục đích cá nhân",
+  "authOnbPurposePersonalDesc": "Dịch vụ cho sự phát triển hoặc sở thích riêng, ngoài công việc.",
+  "authOnbExpNew": "Mới bắt đầu",
+  "authOnbExpOnline": "Freelance online",
+  "authOnbExpOffline": "Freelance offline",
+  "authOnbExpBoth": "Cả online và offline",
+  "authOnbSaveError": "Không lưu được lựa chọn, vui lòng thử lại.",
+  "authOnbPurposeTitle": "Bạn dùng VietGig để làm gì?",
+  "authOnbPurposeSub": "Có thể chọn nhiều mục.",
+  "authOnbInterestTitle": "Chọn dịch vụ phù hợp với nhu cầu của bạn",
+  "authOnbInterestSub": "Chọn ít nhất một mục.",
+  "authOnbOther": "Khác",
+  "authOnbLookingForTitle": "Bạn đang tìm dịch vụ gì?",
+  "authOnbLookingForHint": "VD: Thiết kế menu nhà hàng",
+  "authOnbExpTitle": "Kinh nghiệm freelance của bạn?",
+  "authOnbExpSub": "Dù bạn theo phong cách nào, chúng tôi đều hỗ trợ.",
+  "authVerifyResent": "Đã gửi lại email xác nhận",
+  "authVerifySendFailed": "Gửi email thất bại, vui lòng thử lại.",
+  "authVerifyActivated": "Tài khoản đã được kích hoạt!",
+  "authVerifyNotYet": "Chưa xác nhận được, vui lòng thử lại.",
+  "authVerifyDoneTitle": "Email của bạn đã được xác nhận",
+  "authVerifyTitle": "Xác nhận email để tiếp tục",
+  "authVerifySentTo": "Chúng tôi đã gửi email tới:",
+  "authVerifyBody": "Bấm vào liên kết trong email để xác minh địa chỉ và kích hoạt tài khoản của bạn.",
+  "authVerifyWrongEmail": "Không phải email bạn muốn dùng?",
+  "authVerifyChangeEmail": "Đổi địa chỉ email",
+  "authVerifyDemoNote": "Bản demo: bấm \"Tôi đã xác nhận\" để mô phỏng việc mở liên kết.",
+  "authVerifyConfirm": "Tôi đã xác nhận",
+  "authResendIn": "Gửi lại email sau {seconds}s",
+  "@authResendIn": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "authForgotInvalidEmail": "Vui lòng nhập email hợp lệ",
+  "authForgotSent": "Đã gửi liên kết đặt lại mật khẩu",
+  "authForgotTitle": "Quên mật khẩu",
+  "authForgotHeading": "Đặt lại mật khẩu",
+  "authForgotBody": "Nhập email bạn đã dùng để đăng ký, chúng tôi sẽ gửi liên kết đặt lại mật khẩu.",
+  "authForgotSubmit": "Gửi liên kết",
+  "authForgotCheckInbox": "Kiểm tra hộp thư của bạn",
+  "authForgotSentTo": "Chúng tôi đã gửi liên kết đặt lại mật khẩu tới\n{email}",
+  "@authForgotSentTo": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "authBackToSignIn": "Quay lại đăng nhập",
+  "commonSeeAll": "Xem tất cả",
+  "commonCancel": "Huỷ",
+  "commonOk": "OK",
+  "commonAgree": "Đồng ý",
+  "commonUndo": "Hoàn tác",
+  "commonBack": "Quay lại",
+  "commonClose": "Đóng",
+  "commonSave": "Lưu",
+  "commonSaved": "Đã lưu",
+  "commonDone": "Xong",
+  "commonDelete": "Xoá",
+  "commonCreate": "Tạo",
+  "commonOr": "Hoặc",
+  "commonSignIn": "Đăng nhập",
+  "commonMessage": "Nhắn tin",
+  "commonErrorTitle": "Đã có lỗi xảy ra",
+  "commonRetry": "Thử lại",
+  "commonFrom": "Từ",
+  "commonUnderConstruction": "Đang xây dựng",
+  "timeDays": "Ngày",
+  "timeHours": "Giờ",
+  "timeMinutes": "Phút",
+  "timeJustNow": "Vừa xong",
+  "timeYesterday": "Hôm qua",
+  "timeMinutesAgo": "{n} phút trước",
+  "@timeMinutesAgo": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "timeHoursAgo": "{n} giờ trước",
+  "@timeHoursAgo": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "timeDaysAgo": "{n} ngày trước",
+  "@timeDaysAgo": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "timeMonthsAgo": "{n} tháng trước",
+  "@timeMonthsAgo": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "timeYearsAgo": "{n} năm trước",
+  "@timeYearsAgo": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "timeNDays": "{n} ngày",
+  "@timeNDays": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "weekday1": "Thứ Hai",
+  "weekday2": "Thứ Ba",
+  "weekday3": "Thứ Tư",
+  "weekday4": "Thứ Năm",
+  "weekday5": "Thứ Sáu",
+  "weekday6": "Thứ Bảy",
+  "weekday7": "Chủ Nhật",
+  "navHome": "Trang chủ",
+  "navInbox": "Hộp thư",
+  "navSearch": "Tìm kiếm",
+  "navOrders": "Đơn hàng",
+  "navAccount": "Tài khoản",
+  "badgeChoice": "VIETGIG CHỌN",
+  "orderStatusAwaitingRequirements": "CHỜ YÊU CẦU",
+  "orderStatusInProgress": "ĐANG THỰC HIỆN",
+  "orderStatusDelivered": "ĐÃ GIAO",
+  "orderStatusRevisionRequested": "YÊU CẦU SỬA",
+  "orderStatusCompleted": "HOÀN THÀNH",
+  "orderStatusCancelled": "ĐÃ HUỶ",
+  "orderStatusDisputed": "ĐANG GIẢI QUYẾT",
+  "levelNew": "Mới",
+  "levelOne": "Cấp 1",
+  "levelTwo": "Cấp 2",
+  "levelTopRated": "Top Rated",
+  "sortRelevance": "Phù hợp nhất",
+  "sortBestSelling": "Bán chạy",
+  "sortNewest": "Mới nhất",
+  "sortPriceLow": "Giá thấp đến cao",
+  "sortPriceHigh": "Giá cao đến thấp",
+  "sortRating": "Đánh giá cao",
+  "offerStatusPending": "Đang chờ",
+  "offerStatusAccepted": "Đã chấp nhận",
+  "offerStatusDeclined": "Đã từ chối",
+  "offerStatusWithdrawn": "Đã rút lại",
+  "offerStatusExpired": "Hết hạn",
+  "revisionsUnlimited": "Không giới hạn",
+  "saveSignInTitle": "Đăng nhập để lưu",
+  "saveSignInMessage": "Bạn cần đăng nhập để lưu dịch vụ vào danh sách yêu thích.",
+  "saveSheetTitle": "Danh sách đã lưu",
+  "saveCreateNewLink": "+ Tạo danh sách mới",
+  "saveCreateNewTitle": "Tạo danh sách mới",
+  "saveListNameHint": "Tên danh sách",
+  "saveListEmpty": "Danh sách trống",
+  "saveListCount": "{gigs} dịch vụ • {sellers} người bán",
+  "@saveListCount": {
+    "placeholders": {
+      "gigs": {
+        "type": "int"
+      },
+      "sellers": {
+        "type": "int"
+      }
+    }
+  },
+  "notifKeyInbox": "Tin nhắn hộp thư",
+  "notifKeyOrderMessages": "Tin nhắn đơn hàng",
+  "notifKeyOrderUpdates": "Cập nhật đơn hàng",
+  "notifKeyRatingReminders": "Nhắc đánh giá",
+  "notifKeyBuyerBriefs": "Brief từ người mua",
+  "notifKeyMyGigs": "Dịch vụ của tôi",
+  "notifKeyMyAccount": "Tài khoản của tôi",
+  "notifKeyPromotions": "Thông báo khuyến mãi",
+  "languageVietnamese": "Tiếng Việt",
+  "languageEnglish": "English",
+  "authErrorMissingCredentials": "Vui lòng nhập email/tên đăng nhập và mật khẩu.",
+  "authErrorUserNotFound": "Không tìm thấy tài khoản này.",
+  "authErrorWrongPassword": "Mật khẩu không đúng. Vui lòng thử lại.",
+  "authErrorUsernameTaken": "Tên người dùng đã tồn tại.",
+  "authErrorEmailTaken": "Email này đã được đăng ký.",
+  "authErrorInvalidEmail": "Email không hợp lệ.",
+  "authErrorActiveOrders": "Bạn không thể xoá tài khoản khi còn đơn hàng đang thực hiện. Vui lòng liên hệ bộ phận hỗ trợ.",
+  "authErrorUnknown": "Đã có lỗi xảy ra. Vui lòng thử lại.",
+  "gigLinkCopied": "Đã sao chép liên kết",
+  "gigSearchHint": "Tìm dịch vụ",
+  "gigCriteriaCommunication": "Mức độ giao tiếp",
+  "gigCriteriaQuality": "Chất lượng sản phẩm",
+  "gigCriteriaValue": "Đáng giá tiền",
+  "gigRatingOverall": "Đánh giá tổng quan",
+  "gigReviewCount": "{count} đánh giá",
+  "@gigReviewCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "gigReviewSortPositive": "Tích cực nhất",
+  "gigReviewSortNegative": "Tiêu cực nhất",
+  "gigSortBy": "Sắp xếp theo",
+  "gigSortTooltip": "Sắp xếp",
+  "gigReviewPrice": "Giá",
+  "gigReviewDuration": "Thời gian",
+  "gigSellerResponse": "Phản hồi của người bán",
+  "gigResponseHide": "Ẩn",
+  "gigResponseRead": "Đọc",
+  "gigNewSeller": "Người bán mới",
+  "gigShare": "Chia sẻ",
+  "gigReport": "Báo cáo dịch vụ",
+  "gigReportTitle": "Vì sao bạn báo cáo dịch vụ này?",
+  "gigReportCopyright": "Vi phạm bản quyền",
+  "gigReportContent": "Nội dung không phù hợp",
+  "gigReportSpam": "Lừa đảo / spam",
+  "gigReportOther": "Lý do khác",
+  "gigReportThanks": "Cảm ơn bạn! Chúng tôi sẽ xem xét báo cáo trong 24 giờ.",
+  "gigNotFoundTitle": "Dịch vụ không tồn tại",
+  "gigNotFoundMessage": "Dịch vụ này có thể đã bị gỡ hoặc tạm ẩn.",
+  "gigNotFoundAction": "Khám phá dịch vụ khác",
+  "gigMore": "Thêm",
+  "gigFaqTitle": "Câu hỏi thường gặp",
+  "gigPortfolio": "Portfolio",
+  "gigMoreFromSeller": "Dịch vụ khác của {name}",
+  "@gigMoreFromSeller": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "gigSellerFallback": "người bán",
+  "gigRecentlyViewed": "Đã xem gần đây",
+  "gigShowLess": "Thu gọn",
+  "gigShowMore": "Xem thêm",
+  "gigShowMoreSkills": "Xem thêm {n} kỹ năng",
+  "@gigShowMoreSkills": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "gigDeliveryTime": "Thời gian giao",
+  "gigRevisions": "Số lần sửa",
+  "gigContinueWithPrice": "Tiếp tục ({price})",
+  "@gigContinueWithPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "gigComparePackages": "So sánh gói",
+  "gigPackage": "Gói",
+  "gigSelectPackage": "Chọn {tier}",
+  "@gigSelectPackage": {
+    "placeholders": {
+      "tier": {
+        "type": "String"
+      }
+    }
+  },
+  "gigAboutSeller": "Về người bán",
+  "gigFrom": "Đến từ",
+  "gigMemberSince": "Thành viên từ",
+  "gigMemberSinceValue": "Th{month}/{year}",
+  "@gigMemberSinceValue": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "gigMemberSinceLong": "Tháng {month}/{year}",
+  "@gigMemberSinceLong": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "gigAvgResponse": "Phản hồi TB",
+  "gigAvgResponseLong": "Thời gian phản hồi TB",
+  "gigHours": "{n} giờ",
+  "@gigHours": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "gigLanguages": "Ngôn ngữ",
+  "gigContact": "Liên hệ",
+  "gigNoReviews": "Chưa có đánh giá nào.",
+  "gigSeeAllReviews": "Xem tất cả {count} đánh giá",
+  "@gigSeeAllReviews": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "gigSeeAllReviewsPlain": "Xem tất cả đánh giá",
+  "gigTabAbout": "Giới thiệu",
+  "gigTabGigs": "Dịch vụ",
+  "gigTabReviews": "Đánh giá",
+  "gigTabClients": "Khách hàng",
+  "gigUserNotFoundTitle": "Không tìm thấy người dùng",
+  "gigUserNotFoundMessage": "Tài khoản này không tồn tại hoặc đã bị vô hiệu hoá.",
+  "gigVettedTitle": "Được VietGig Pro thẩm định",
+  "gigVettedMessage": "{name} đã được đội ngũ VietGig Pro lựa chọn nhờ chuyên môn đã được kiểm chứng.",
+  "@gigVettedMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "gigVettedFor": "Được thẩm định cho",
+  "gigOffersHourly": "Nhận việc theo giờ",
+  "gigInfo": "Thông tin",
+  "gigFromWithLocalTime": "{place} ({time} giờ địa phương)",
+  "@gigFromWithLocalTime": {
+    "placeholders": {
+      "place": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "gigSkills": "Kỹ năng",
+  "gigCertEducation": "Chứng chỉ & Học vấn",
+  "gigCertificates": "Chứng chỉ",
+  "gigEducation": "Học vấn",
+  "gigNoGigsTitle": "Chưa có dịch vụ",
+  "gigNoGigsMessage": "{name} chưa đăng dịch vụ nào.",
+  "@gigNoGigsMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "gigNoReviewsTitle": "Chưa có đánh giá",
+  "gigNoReviewsMessage": "Hãy là người đầu tiên làm việc và đánh giá người bán này.",
+  "gigNoPortfolio": "Chưa có portfolio",
+  "gigPortfolioIntro": "Một số dự án {name} đã thực hiện, giúp bạn hiểu rõ hơn về chuyên môn.",
+  "@gigPortfolioIntro": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "gigNoClients": "Chưa có khách hàng doanh nghiệp",
+  "gigClientProject": "Dự án với {company}",
+  "@gigClientProject": {
+    "placeholders": {
+      "company": {
+        "type": "String"
+      }
+    }
+  },
+  "gigClientIndustry": "Ngành: {industry}",
+  "@gigClientIndustry": {
+    "placeholders": {
+      "industry": {
+        "type": "String"
+      }
+    }
+  },
+  "gigFilterAll": "Tất cả",
+  "gigFilterFive": "5 sao",
+  "gigFilterFour": "4 sao",
+  "gigFilterLow": "3 sao trở xuống",
+  "gigFilterResponded": "Có phản hồi",
+  "gigSellerNotFound": "Không tìm thấy người bán",
+  "gigReviewsShown": "{n} đánh giá hiển thị",
+  "@gigReviewsShown": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "gigNoMatchingReviews": "Không có đánh giá phù hợp",
+  "gigPortfolioOf": "Portfolio của {name}",
+  "@gigPortfolioOf": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "gigNoProjectsTitle": "Chưa có dự án nào",
+  "gigNoProjectsMessage": "Người bán chưa thêm dự án vào portfolio.",
+  "gigPortfolioScreenIntro": "Một số dự án {name} đã thực hiện để bạn hiểu rõ hơn về chuyên môn.",
+  "@gigPortfolioScreenIntro": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "gigProjectNotFoundTitle": "Không tìm thấy dự án",
+  "gigProjectNotFoundMessage": "Dự án này có thể đã bị xoá khỏi portfolio.",
+  "gigBy": "Bởi {name}",
+  "@gigBy": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "gigProjectDefaultDescription": "Dự án do {name} thực hiện cho khách hàng trên VietGig.",
+  "@gigProjectDefaultDescription": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "homeCategoriesTooltip": "Danh mục",
+  "homeVerifyTitle": "Vui lòng xác nhận email",
+  "homeVerifyMessage": "Chúng tôi đã gửi email xác nhận tới {email}. Hãy kiểm tra hộp thư và kích hoạt tài khoản.",
+  "@homeVerifyMessage": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "homeVerifyYourAddress": "địa chỉ của bạn",
+  "homeVerifyAction": "Kích hoạt email →",
+  "homeGuestMessage": "Đăng nhập để lưu dịch vụ, nhắn tin và đặt hàng.",
+  "homePopularServices": "Dịch vụ phổ biến",
+  "homeCategoriesError": "Không tải được danh mục",
+  "homeCustomOffers": "Báo giá riêng dành cho bạn",
+  "homeActiveOrders": "Đơn hàng đang thực hiện",
+  "homeOrderDue": "Hạn giao: {date}",
+  "@homeOrderDue": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "homeInterestsTitle": "Bạn quan tâm gì?",
+  "homeInterestAdd": "+ Thêm",
+  "homeInterestAdded": "Đã thêm vào sở thích",
+  "homeInterestRemoved": "Đã bỏ khỏi sở thích",
+  "homeRecentlyViewed": "Đã xem gần đây",
+  "homeMostLoved": "Được yêu thích nhất",
+  "homeInviteTitle": "Chia sẻ & nhận tới 2.500.000 ₫",
+  "homeInviteMessage": "Tặng bạn bè giảm 10% cho đơn đầu tiên và nhận tới 2.500.000 ₫ khi họ đặt hàng trên VietGig.",
+  "homeInviteAction": "Mời bạn bè →",
+  "homeOfferSummary": "{price} • {days} giao hàng",
+  "@homeOfferSummary": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      },
+      "days": {
+        "type": "String"
+      }
+    }
+  },
+  "homeOfferExpires": "Báo giá hết hạn lúc {time}",
+  "@homeOfferExpires": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "homeOfferOpenChat": "Mở chat",
+  "homeOfferView": "Xem",
+  "inboxEdit": "Sửa",
+  "inboxFilterTitle": "Bộ lọc",
+  "inboxSelectTitle": "Chọn cuộc trò chuyện",
+  "inboxSelectedCount": "{n} đã chọn",
+  "@inboxSelectedCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxEmptyTitle": "Chưa có tin nhắn nào",
+  "inboxEmptyMessage": "Gửi tin nhắn đầu tiên cho người bán để trao đổi về dự án của bạn. Mọi cuộc trò chuyện sẽ xuất hiện tại đây.",
+  "inboxFilterEmptyTitle": "Thử điều chỉnh bộ lọc",
+  "inboxFilterEmptyMessage": "Không có kết quả cho {filter}.",
+  "@inboxFilterEmptyMessage": {
+    "placeholders": {
+      "filter": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxClearFilter": "Xoá bộ lọc",
+  "inboxArchive": "Lưu trữ",
+  "inboxUnarchive": "Bỏ lưu trữ",
+  "inboxStar": "Gắn sao",
+  "inboxUnstar": "Bỏ gắn sao",
+  "inboxUnstarShort": "Bỏ sao",
+  "inboxMore": "Thêm",
+  "inboxChangeLabels": "Đổi nhãn",
+  "inboxBlock": "Chặn",
+  "inboxUnblock": "Bỏ chặn",
+  "inboxReport": "Báo cáo",
+  "inboxMarkRead": "Đánh dấu đã đọc",
+  "inboxMarkUnread": "Đánh dấu chưa đọc",
+  "inboxMarkedRead": "Đã đánh dấu đã đọc",
+  "inboxMarkedUnread": "Đã đánh dấu chưa đọc",
+  "inboxConversationCount": "{n} cuộc trò chuyện",
+  "@inboxConversationCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxBulkArchived": "Đã lưu trữ {n} cuộc trò chuyện",
+  "@inboxBulkArchived": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxBulkUnarchived": "Đã chuyển {n} cuộc trò chuyện về Hộp thư",
+  "@inboxBulkUnarchived": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxBulkStarred": "Đã gắn sao {n} cuộc trò chuyện",
+  "@inboxBulkStarred": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxUnstarred": "Đã bỏ gắn sao",
+  "inboxLabelsUpdated": "Đã cập nhật nhãn",
+  "inboxBlockManyTitle": "Chặn {n} người dùng?",
+  "@inboxBlockManyTitle": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxBlockManyMessage": "Bạn sẽ không nhận được tin nhắn từ những người này nữa.",
+  "inboxUserBlocked": "Đã chặn người dùng",
+  "inboxUserUnblocked": "Đã bỏ chặn người dùng",
+  "inboxDeleteTitle": "Xoá cuộc trò chuyện?",
+  "inboxDeleteManyMessage": "Xoá {n} cuộc trò chuyện đã chọn? Thao tác này không thể hoàn tác.",
+  "@inboxDeleteManyMessage": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxBulkDeleted": "Đã xoá {n} cuộc trò chuyện",
+  "@inboxBulkDeleted": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxUnknownUser": "Người dùng VietGig",
+  "inboxUser": "Người dùng",
+  "inboxStartConversation": "Bắt đầu cuộc trò chuyện",
+  "inboxFilterInbox": "Hộp thư",
+  "inboxFilterAll": "Tất cả",
+  "inboxFilterUnread": "Chưa đọc",
+  "inboxFilterStarred": "Gắn sao",
+  "inboxFilterArchived": "Lưu trữ",
+  "inboxFilterSpam": "Spam",
+  "inboxFilterOffers": "Báo giá riêng",
+  "inboxLabelsHeader": "Nhãn",
+  "inboxLabelPickerTitle": "Chọn nhãn",
+  "inboxApply": "Áp dụng",
+  "inboxNewLabelHint": "Tên nhãn mới",
+  "inboxAddLabel": "Thêm nhãn mới",
+  "inboxArchivedOne": "Đã lưu trữ cuộc trò chuyện",
+  "inboxUnarchivedOne": "Đã chuyển cuộc trò chuyện về Hộp thư",
+  "inboxStarredOne": "Đã gắn sao cuộc trò chuyện",
+  "inboxBlockTitle": "Chặn người dùng này?",
+  "inboxBlockMessage": "Bạn sẽ không nhận được tin nhắn từ người này nữa. Bạn có thể bỏ chặn trong mục Spam.",
+  "inboxDeleteMessage": "Bạn có chắc muốn xoá cuộc trò chuyện này? Thao tác này không thể hoàn tác.",
+  "inboxDeletedOne": "Đã xoá cuộc trò chuyện",
+  "inboxReportTitle": "Báo cáo người dùng",
+  "inboxReportFraud": "Lừa đảo hoặc gian lận",
+  "inboxReportOffsite": "Yêu cầu thanh toán ngoài VietGig",
+  "inboxReportAbuse": "Ngôn từ xúc phạm",
+  "inboxReportSpam": "Spam",
+  "inboxReportThanks": "Cảm ơn bạn! Chúng tôi sẽ xem xét báo cáo trong 24 giờ.",
+  "inboxAutoReply": "Cảm ơn bạn! Mình sẽ phản hồi chi tiết sớm nhé.",
+  "inboxSendFailed": "Không gửi được tin nhắn. Vui lòng thử lại.",
+  "inboxYou": "Bạn",
+  "inboxPlainFile": "Tệp: {name}",
+  "@inboxPlainFile": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxPlainOffer": "Báo giá: {title} – {price}",
+  "@inboxPlainOffer": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxVideoInvite": "Lời mời gọi video",
+  "inboxVideoInviteText": "Mình mời bạn tham gia cuộc gọi video nhé",
+  "inboxAttachAlbum": "Album ảnh",
+  "inboxAttachCamera": "Máy ảnh",
+  "inboxAttachFile": "Gửi tệp",
+  "inboxAttachOffer": "Tạo báo giá",
+  "inboxAttachVideo": "Bắt đầu gọi video",
+  "inboxQuickReplies": "Trả lời nhanh",
+  "inboxQuickFallbackName": "bạn",
+  "inboxReply": "Trả lời",
+  "inboxForward": "Chuyển tiếp",
+  "inboxCopy": "Sao chép",
+  "inboxCopied": "Đã sao chép tin nhắn",
+  "inboxForwarded": "Đã chuyển tiếp tới {n} cuộc trò chuyện",
+  "@inboxForwarded": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxWithdrawOfferTitle": "Rút lại báo giá?",
+  "inboxWithdrawOfferMessage": "Khách hàng sẽ không thể chấp nhận báo giá này nữa.",
+  "inboxDeclineOfferTitle": "Từ chối báo giá?",
+  "inboxDeclineOfferMessage": "Người bán sẽ được thông báo rằng bạn đã từ chối báo giá này.",
+  "inboxWithdraw": "Rút lại",
+  "inboxDecline": "Từ chối",
+  "inboxOfferWithdrawn": "Đã rút lại báo giá",
+  "inboxOfferDeclined": "Đã từ chối báo giá",
+  "inboxSafetyTitle": "Chúng tôi luôn bảo vệ bạn",
+  "inboxCallDialogMessage": "VietGig ghi lại các cuộc gọi video để giữ an toàn cho cả hai bên và hỗ trợ giải quyết khi có tranh chấp. Vui lòng không chia sẻ thông tin thanh toán trong cuộc gọi.",
+  "inboxOpenCall": "Mở cuộc gọi",
+  "inboxCallConnecting": "Đang kết nối cuộc gọi video… (mô phỏng)",
+  "inboxCallGuidelinesTitle": "Hướng dẫn gọi video",
+  "inboxCallGuidelinesMessage": "• Chỉ trao đổi nội dung liên quan tới dự án.\n• Không chia sẻ thông tin thanh toán hoặc liên hệ ngoài VietGig.\n• Cuộc gọi được ghi lại và lưu trong 30 ngày.\n• Bạn có thể báo cáo hành vi không phù hợp sau cuộc gọi.",
+  "inboxGotIt": "Đã hiểu",
+  "inboxActiveOrdersTitle": "Đơn hàng đang thực hiện",
+  "inboxNoOrdersTitle": "Chưa có đơn hàng nào",
+  "inboxNoOrdersMessage": "Bạn chưa có đơn hàng đang thực hiện với {name}.",
+  "@inboxNoOrdersMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxThisPartner": "đối tác này",
+  "inboxOrderDue": "Hạn giao: {date} · {price}",
+  "@inboxOrderDue": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxMessagesTitle": "Tin nhắn",
+  "inboxOnline": "Online",
+  "inboxLocalTime": "Giờ địa phương {time}",
+  "@inboxLocalTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxOptionsTooltip": "Tuỳ chọn",
+  "inboxLoadFailed": "Không tải được tin nhắn",
+  "inboxNotFoundTitle": "Không tìm thấy cuộc trò chuyện",
+  "inboxNotFoundMessage": "Cuộc trò chuyện có thể đã bị xoá.",
+  "inboxScrollDown": "Cuộn xuống cuối",
+  "inboxBlockedNotice": "Bạn đã chặn người dùng này.",
+  "inboxSafetyDialogTitle": "Giữ an toàn trên VietGig",
+  "inboxSafetyDialogMessage": "Khi thanh toán và trao đổi qua VietGig, bạn được bảo vệ bởi chính sách hoàn tiền và đội ngũ hỗ trợ. Đừng bao giờ chuyển khoản trực tiếp hoặc chia sẻ thông tin đăng nhập cho người khác.",
+  "inboxStartChatHint": "Gửi tin nhắn cho {name} để bắt đầu trò chuyện.",
+  "@inboxStartChatHint": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxPartner": "đối tác",
+  "inboxTyping": "{name} đang soạn tin…",
+  "@inboxTyping": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxPartnerCap": "Đối tác",
+  "inboxAttachment": "Tệp đính kèm",
+  "inboxDownloading": "Đang tải xuống {name}…",
+  "@inboxDownloading": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxFileFallback": "tệp",
+  "inboxCallCancelled": "Đã huỷ lời mời gọi video",
+  "inboxCallDeclined": "Đã từ chối lời mời gọi video",
+  "inboxReplyingTo": "Đang trả lời {name}…",
+  "@inboxReplyingTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxAttachTooltip": "Đính kèm",
+  "inboxInputHint": "Nhập tin nhắn…",
+  "inboxSend": "Gửi",
+  "inboxToday": "Hôm nay",
+  "inboxSafetyBanner": "Vì sự an toàn của bạn, hãy giữ mọi thanh toán và trao đổi trên VietGig. ",
+  "inboxLearnMore": "Tìm hiểu thêm",
+  "inboxRelatedTo": "Tin nhắn này liên quan tới:",
+  "inboxMilestoneCount": "{n} cột mốc",
+  "@inboxMilestoneCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxDeliverIn": "Giao trong {n} ngày",
+  "@inboxDeliverIn": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxOptionsSummary": "{n} tuỳ chọn: {list}",
+  "@inboxOptionsSummary": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      },
+      "list": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxOfferPrice": "Giá báo: {price}",
+  "@inboxOfferPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxOfferExpiresAt": "Báo giá hết hạn lúc {time}",
+  "@inboxOfferExpiresAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxViewFullOffer": "Xem toàn bộ báo giá",
+  "inboxWithdrawOffer": "Rút lại báo giá",
+  "inboxVideoSent": "Bạn đã gửi lời mời gọi video",
+  "inboxVideoJoinPrompt": "Đang tham gia?",
+  "inboxVideoGuidelinesLink": "Xem hướng dẫn gọi video",
+  "inboxVideoRecorded": "Cuộc gọi video sẽ được ghi lại và lưu trữ để mọi người tham gia có thể tải về.",
+  "inboxVideoDeclinedLabel": "Đã từ chối lời mời",
+  "inboxJoin": "Tham gia",
+  "inboxCancelInvite": "Huỷ lời mời",
+  "inboxOptCustomAssets": "Tài nguyên tuỳ chỉnh",
+  "inboxOptResponsive": "Thiết kế responsive",
+  "inboxOptWireframe": "Wireframe",
+  "inboxOptPrototype": "Prototype",
+  "inboxOptSourceFiles": "File nguồn",
+  "inboxOptPages": "{n} trang/màn hình",
+  "@inboxOptPages": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxPagesLabel": "Số trang/màn hình",
+  "inboxErrGig": "Vui lòng chọn dịch vụ",
+  "inboxErrDescEmpty": "Vui lòng nhập mô tả báo giá",
+  "inboxErrDescShort": "Mô tả cần ít nhất 20 ký tự",
+  "inboxErrPriceEmpty": "Vui lòng nhập tổng giá",
+  "inboxErrMinPrice": "Giá tối thiểu {price}",
+  "@inboxErrMinPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxErrDays": "Vui lòng chọn thời gian giao",
+  "inboxErrMilestones": "Cần ít nhất 2 cột mốc",
+  "inboxErrTemplate": "Vui lòng đặt tên cho mẫu",
+  "inboxErrMsTitle": "Vui lòng nhập tên cột mốc",
+  "inboxErrMsDesc": "Vui lòng nhập mô tả",
+  "inboxLinkGigTitle": "Liên kết với dịch vụ",
+  "inboxPayTypeTitle": "Bạn muốn nhận thanh toán thế nào?",
+  "inboxPayTypeSubtitle": "Chọn hình thức phù hợp nhất với dự án.",
+  "inboxPaySingle": "Thanh toán một lần",
+  "inboxPaySingleDesc": "Nhận toàn bộ thanh toán khi hoàn thành dự án.",
+  "inboxPayMilestone": "Theo cột mốc",
+  "inboxPayMilestoneDesc": "Làm từng bước và nhận thanh toán sau mỗi cột mốc hoàn thành.",
+  "inboxDeliveryTime": "Thời gian giao",
+  "inboxRevisionsTitle": "Số lượt sửa",
+  "inboxNoRevisions": "Không sửa",
+  "inboxRevisionsCount": "{n} lượt sửa",
+  "@inboxRevisionsCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxOfferExpiry": "Thời hạn báo giá",
+  "inboxCheckOffer": "Vui lòng kiểm tra lại thông tin báo giá",
+  "inboxOfferSentTemplate": "Đã gửi báo giá và lưu mẫu “{name}”",
+  "@inboxOfferSentTemplate": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxOfferSent": "Đã gửi báo giá",
+  "inboxOfferSendFailed": "Không gửi được báo giá. Vui lòng thử lại.",
+  "inboxCreateOfferTitle": "Tạo báo giá",
+  "inboxGigsLoadFailed": "Không tải được dịch vụ",
+  "inboxLinkOfferToGig": "Liên kết báo giá với dịch vụ",
+  "inboxChange": "Đổi",
+  "inboxNoGigs": "Bạn chưa có dịch vụ nào để liên kết.",
+  "inboxOfferDescHeader": "Mô tả báo giá",
+  "inboxOfferDescHint": "VD: sản phẩm bàn giao, tiến độ, số lượng…",
+  "inboxTotalPrice": "Tổng giá",
+  "inboxPick": "Chọn",
+  "inboxRevisionsOptional": "Số lượt sửa (tuỳ chọn)",
+  "inboxMilestoneRowSummary": "{price} | {days} ngày | {revisions} lượt sửa",
+  "@inboxMilestoneRowSummary": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      },
+      "days": {
+        "type": "int"
+      },
+      "revisions": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxMaxMilestones": "Tối đa {n} cột mốc",
+  "@inboxMaxMilestones": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxAddMilestone": "Thêm cột mốc",
+  "inboxMilestoneTotal": "Tổng: {price} | {days} ngày | {revisions} lượt sửa",
+  "@inboxMilestoneTotal": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      },
+      "days": {
+        "type": "int"
+      },
+      "revisions": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxAddOptions": "Thêm tuỳ chọn",
+  "inboxServiceOptions": "Tuỳ chọn dịch vụ",
+  "inboxSelectedN": "Đã chọn {n}",
+  "@inboxSelectedN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxOfferSettings": "Thiết lập báo giá",
+  "inboxRequireInfo": "Yêu cầu khách gửi thông tin",
+  "inboxRequireInfoDesc": "Khách cần trả lời câu hỏi yêu cầu trước khi bắt đầu",
+  "inboxSaveTemplate": "Lưu làm mẫu",
+  "inboxReuseTemplate": "Dùng lại cho các báo giá sau",
+  "inboxTemplateNameHint": "Đặt tên cho mẫu",
+  "inboxSendMilestoneOffer": "Gửi báo giá cột mốc",
+  "inboxSendOffer": "Gửi báo giá",
+  "inboxMilestoneN": "Cột mốc {n}",
+  "@inboxMilestoneN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxDeleteMilestone": "Xoá cột mốc",
+  "inboxDeleteMilestoneTitle": "Xoá cột mốc này?",
+  "inboxMsTitleHeader": "Tên cột mốc",
+  "inboxMsTitleHint": "VD: Wireframe & concept",
+  "inboxDescHeader": "Mô tả",
+  "inboxMsDescHint": "Sản phẩm bàn giao, phạm vi công việc…",
+  "inboxMsPriceLabel": "Giá (tối thiểu {price})",
+  "@inboxMsPriceLabel": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxViewOffer": "Xem báo giá",
+  "inboxViewMilestoneOffer": "Xem báo giá theo cột mốc",
+  "inboxOfferNotFound": "Không tìm thấy báo giá",
+  "inboxOfferNotFoundMessage": "Báo giá này có thể đã bị xoá.",
+  "inboxFirstMilestoneCharge": "Bạn chỉ bị tính phí cho cột mốc đầu tiên ({price}).",
+  "@inboxFirstMilestoneCharge": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxContinueCheckout": "Tiếp tục thanh toán",
+  "inboxOfferStatusBanner": "Báo giá này {status}.",
+  "@inboxOfferStatusBanner": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxOfferDetails": "Chi tiết báo giá",
+  "inboxDetailPrice": "Giá",
+  "inboxDetailTime": "Thời gian",
+  "inboxDetailRevisions": "Lượt sửa",
+  "inboxDetailExpires": "Hết hạn",
+  "inboxDetailRequirements": "Yêu cầu",
+  "inboxDetailRequirementsValue": "Cần gửi thông tin trước khi bắt đầu",
+  "inboxIncludes": "Bao gồm",
+  "inboxMilestoneDetails": "Chi tiết cột mốc",
+  "inboxMilestoneTooltip": "Người bán sẽ giao từng cột mốc. Bạn thanh toán cho từng cột mốc trước khi bắt đầu.",
+  "inboxTotal": "Tổng cộng",
+  "inboxMilestoneLine": "{days} ngày | {price} | {revisions} lượt sửa",
+  "@inboxMilestoneLine": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      },
+      "price": {
+        "type": "String"
+      },
+      "revisions": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxOpening": "Đang mở cuộc trò chuyện…",
+  "inboxOpenFailed": "Không mở được cuộc trò chuyện",
+  "inboxForwardTitle": "Chuyển tiếp tin nhắn",
+  "inboxRecentConversations": "Cuộc trò chuyện gần đây",
+  "inboxNoOtherConversations": "Chưa có cuộc trò chuyện khác",
+  "inboxForwardCount": "Chuyển tiếp ({n})",
+  "@inboxForwardCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxAddNew": "Thêm mới",
+  "inboxQuickEmptyTitle": "Chưa có mẫu trả lời nhanh",
+  "inboxQuickEmptyMessage": "Tạo mẫu để trả lời khách hàng chỉ với một chạm.",
+  "inboxQuickSaved": "Đã lưu mẫu trả lời nhanh",
+  "inboxQuickNewTitle": "Trả lời nhanh mới",
+  "inboxQuickName": "Tên",
+  "inboxQuickNameHint": "Đặt tên cho mẫu trả lời",
+  "inboxQuickBody": "Nội dung tin nhắn",
+  "inboxQuickBodyHint": "Nhập nội dung…",
+  "inboxQuickTip": "Mẹo: gõ {token} để tự động chèn tên người nhận.",
+  "@inboxQuickTip": {
+    "placeholders": {
+      "token": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersNotFoundTitle": "Không tìm thấy đơn hàng",
+  "ordersNotFoundMessage": "Đơn hàng có thể đã bị xoá hoặc bạn không có quyền xem.",
+  "ordersNotFoundAction": "Về danh sách đơn hàng",
+  "ordersUnknownUser": "Người dùng VietGig",
+  "ordersAttachTitle": "Đính kèm tệp",
+  "ordersAttachCamera": "Mở máy ảnh",
+  "ordersAttachGallery": "Mở thư viện ảnh",
+  "ordersAttachFile": "Tệp",
+  "ordersRemoveFile": "Xoá tệp",
+  "ordersApply": "Áp dụng",
+  "ordersSend": "Gửi",
+  "ordersInfoDateCode": "{date} · Mã đơn {code}",
+  "@ordersInfoDateCode": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersInfoExtra": "Dịch vụ thêm: {name}",
+  "@ordersInfoExtra": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersInfoSubtotal": "Tạm tính",
+  "ordersInfoServiceFee": "Phí dịch vụ",
+  "ordersInfoTip": "Tiền tip",
+  "ordersInfoTotal": "Tổng thanh toán",
+  "ordersInfoDueDate": "Ngày giao",
+  "ordersInfoPaidWith": "Thanh toán qua",
+  "ordersManageTitle": "Quản lý đơn hàng",
+  "ordersNotifications": "Thông báo",
+  "ordersOptions": "Tuỳ chọn",
+  "ordersSortDue": "Hạn giao gần nhất",
+  "ordersSortNewest": "Mới đặt gần đây",
+  "ordersTabNeedsAction": "Cần xử lý",
+  "ordersTabInProgress": "Đang thực hiện",
+  "ordersTabNew": "Mới",
+  "ordersTabDelivered": "Đã giao",
+  "ordersTabCompleted": "Hoàn thành",
+  "ordersTabCancelled": "Đã huỷ",
+  "ordersTabWithCount": "{label} ({count})",
+  "@ordersTabWithCount": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersFilterTitle": "Sắp xếp & lọc",
+  "ordersFilterReset": "Đặt lại",
+  "ordersFilterSortBy": "Sắp xếp theo",
+  "ordersFilterStatus": "Trạng thái",
+  "ordersFilterAll": "Tất cả",
+  "ordersGroupOverdue": "Đã quá hạn",
+  "ordersGroupDue2Days": "Đến hạn trong 2 ngày",
+  "ordersGroupDue2To5Days": "Đến hạn trong 2–5 ngày",
+  "ordersGroupDueLater": "Đến hạn sau 5 ngày",
+  "ordersEmptyTitle": "Tất cả đơn hàng của bạn ở đây",
+  "ordersEmptySellerMessage": "Khi khách đặt dịch vụ của bạn, đơn hàng sẽ xuất hiện tại đây.",
+  "ordersEmptyBuyerMessage": "Khi bạn đặt một dịch vụ, bạn có thể theo dõi tiến độ đơn hàng tại đây.",
+  "ordersEmptySellerAction": "Quản lý dịch vụ của tôi",
+  "ordersEmptyBuyerAction": "Khám phá dịch vụ",
+  "ordersCardMenuTitle": "Đơn hàng {code}",
+  "@ordersCardMenuTitle": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersCardMenuOpen": "Xem chi tiết đơn hàng",
+  "ordersCardMenuChatBuyer": "Nhắn tin cho khách",
+  "ordersCardMenuChatSeller": "Nhắn tin cho người bán",
+  "ordersResolutionCenter": "Trung tâm giải quyết",
+  "ordersCopyCode": "Sao chép mã đơn",
+  "ordersCodeCopied": "Đã sao chép mã đơn {code}",
+  "@ordersCodeCopied": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersCardUser": "Người dùng",
+  "ordersCardLoading": "Đang tải…",
+  "ordersCardDue": "Hạn giao {date}",
+  "@ordersCardDue": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersCardPlaced": "Đặt ngày {date}",
+  "@ordersCardPlaced": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailError": "Có lỗi xảy ra: {error}",
+  "@ordersDetailError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailMenuUnread": "Đánh dấu chưa đọc",
+  "ordersDetailMenuExtra": "Thêm dịch vụ",
+  "ordersDetailDeliver": "Giao đơn hàng",
+  "ordersDetailMenuGig": "Xem dịch vụ",
+  "ordersDetailMarkedUnread": "Đã đánh dấu đơn hàng là chưa đọc",
+  "ordersDetailPickExtra": "Chọn dịch vụ bạn muốn thêm ở phía trên",
+  "ordersDetailAddExtraTitle": "Thêm \"{title}\"?",
+  "@ordersDetailAddExtraTitle": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailAddExtraMessage": "Bạn sẽ thanh toán thêm {price}.",
+  "@ordersDetailAddExtraMessage": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailAddExtraMessageDays": "Bạn sẽ thanh toán thêm {price} và thời gian giao kéo dài thêm {days} ngày.",
+  "@ordersDetailAddExtraMessageDays": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      },
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersDetailAddExtraConfirm": "Thêm",
+  "ordersDetailExtraAdded": "Đã thêm \"{title}\" vào đơn hàng",
+  "@ordersDetailExtraAdded": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailRequestAccepted": "Bạn đã chấp nhận yêu cầu",
+  "ordersDetailRequestDeclined": "Bạn đã từ chối yêu cầu",
+  "ordersDetailApproveTitle": "Sẵn sàng nhận bản cuối?",
+  "ordersDetailApproveMessage": "Sau bước này bạn sẽ không thể yêu cầu chỉnh sửa cho đơn hàng nữa.",
+  "ordersDetailCompletedSnack": "Đơn hàng đã hoàn thành!",
+  "ordersDetailRequestRevision": "Yêu cầu chỉnh sửa",
+  "ordersDetailNeedMoreTime": "Tôi cần thêm thời gian để xem",
+  "ordersDetailNewTag": "MỚI",
+  "ordersDetailResolutionPrefix": "Nếu gặp vấn đề với đơn hàng, hãy vào ",
+  "ordersDetailRevisionSubtitle": "Mô tả rõ những điểm bạn muốn người bán thay đổi.",
+  "ordersDetailRevisionHint": "VD: Bạn có thể đổi màu chủ đạo sang xanh đậm hơn không?",
+  "ordersDetailSendRequest": "Gửi yêu cầu",
+  "ordersDetailRevisionSent": "Đã gửi yêu cầu chỉnh sửa cho người bán",
+  "ordersDetailMoreTimeTitle": "Thêm thời gian xem bản giao",
+  "ordersDetailMoreTimeMessage": "Bạn cần thêm bao nhiêu ngày? Bạn có thể quay lại thêm nếu cần – tối đa 5 ngày.",
+  "ordersDetailNewReviewDeadline": "Hạn duyệt mới: {date}",
+  "@ordersDetailNewReviewDeadline": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailExtendReview": "Gia hạn thời gian xem",
+  "ordersDetailReviewExtended": "Xong! Bạn có thêm {days} ngày để xem bản giao.",
+  "@ordersDetailReviewExtended": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersDetailRemindOn": "Chúng tôi sẽ nhắc bạn 1 ngày trước hạn giao",
+  "ordersDetailRemindOff": "Đã tắt nhắc nhở",
+  "ordersDetailThanksTitle": "Cảm ơn bạn đã đặt hàng!",
+  "ordersDetailThanksMessage": "Người bán sẽ bắt tay vào làm ngay.",
+  "ordersDetailWaitingRequirements": "Đang chờ khách gửi yêu cầu",
+  "ordersDetailSubmitRequirements": "Gửi yêu cầu để bắt đầu đơn hàng",
+  "ordersDetailWaitingRequirementsMessage": "Đơn hàng sẽ bắt đầu khi khách gửi đầy đủ thông tin bạn yêu cầu.",
+  "ordersDetailSubmitRequirementsMessage": "Người bán cần thông tin từ bạn. Thời gian giao chỉ bắt đầu tính sau khi bạn gửi yêu cầu.",
+  "ordersDetailLetterToBuyer": "Thư gửi khách",
+  "ordersDetailExtend": "Gia hạn",
+  "ordersDetailExtrasTitle": "Thêm dịch vụ cho đơn hàng",
+  "ordersDetailHide": "Ẩn",
+  "ordersDetailAddMore": "+ Thêm nữa",
+  "ordersDetailAdd": "+ Thêm",
+  "ordersDetailCancelRequestTitle": "Yêu cầu huỷ đơn hàng",
+  "ordersDetailExtensionRequestTitle": "Yêu cầu gia hạn",
+  "ordersDetailCancelRequestedByYou": "Bạn đã yêu cầu huỷ đơn hàng này.",
+  "ordersDetailCancelRequestedBy": "{name} đã yêu cầu huỷ đơn hàng này.",
+  "@ordersDetailCancelRequestedBy": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailExtensionRequestedByYou": "Bạn đã yêu cầu gia hạn ngày giao thêm {days} ngày.",
+  "@ordersDetailExtensionRequestedByYou": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersDetailExtensionRequestedBy": "{name} đã yêu cầu gia hạn ngày giao thêm {days} ngày.",
+  "@ordersDetailExtensionRequestedBy": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersDetailExtensionLength": "Thời lượng gia hạn",
+  "ordersDetailNewDueDate": "Ngày giao mới",
+  "ordersDetailAwaitingResponse": "Đang chờ phản hồi từ {name} (tới {date})",
+  "@ordersDetailAwaitingResponse": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailRespondBefore": "Bạn cần phản hồi trước {date}, nếu không yêu cầu sẽ tự động được chấp nhận.",
+  "@ordersDetailRespondBefore": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailAccept": "Chấp nhận",
+  "ordersDetailDecline": "Từ chối",
+  "ordersDetailYouDelivered": "Bạn đã giao đơn hàng",
+  "ordersDetailYourDelivery": "Đây là bản giao của bạn",
+  "ordersDetailFileCount": "{n} tệp",
+  "@ordersDetailFileCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersDetailDownloadingAll": "Đang tải {n} tệp về máy…",
+  "@ordersDetailDownloadingAll": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersDetailDownloadAll": "Tải tất cả",
+  "ordersDetailVirusScanned": "Đã quét virus",
+  "ordersDetailDownloadingFile": "Đang tải \"{name}\"…",
+  "@ordersDetailDownloadingFile": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailAwaitingBuyerReview": "Đang chờ khách duyệt bản giao.",
+  "ordersDetailBuyerReviewUntil": "Khách có tới {date} để duyệt. Sau thời điểm này đơn sẽ tự động hoàn thành.",
+  "@ordersDetailBuyerReviewUntil": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailApproveDelivery": "Duyệt bản giao",
+  "ordersDetailNotReady": "Chưa sẵn sàng",
+  "ordersDetailReviewHint": "Hãy duyệt bản giao, yêu cầu chỉnh sửa hoặc xin thêm thời gian để xem.",
+  "ordersDetailReviewUntil": "Bạn có tới {date} để duyệt bản giao, yêu cầu chỉnh sửa hoặc thêm thời gian xem. Sau thời điểm này, đơn hàng sẽ được tự động đánh dấu hoàn thành.",
+  "@ordersDetailReviewUntil": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailCompletedTitle": "Đơn hàng đã hoàn thành",
+  "ordersDetailCompletedMessage": "Cảm ơn bạn đã sử dụng VietGig.",
+  "ordersDetailBuyerReview": "Đánh giá của khách",
+  "ordersDetailMyReview": "Đánh giá của tôi",
+  "ordersDetailNoBuyerReview": "Khách chưa để lại đánh giá.",
+  "ordersDetailShareExperience": "Chia sẻ trải nghiệm của bạn để giúp người mua khác lựa chọn.",
+  "ordersDetailWriteReview": "Viết đánh giá",
+  "ordersDetailTipped": "Bạn đã tip {amount} cho {name}. Cảm ơn bạn!",
+  "@ordersDetailTipped": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailTipTitle": "Người bán xuất sắc xứng đáng được tip",
+  "ordersDetailTipMessage": "Tip được chuyển 100% cho người bán.",
+  "ordersDetailSendTip": "Gửi tip",
+  "ordersDetailCancelledTitle": "Đơn hàng đã bị huỷ",
+  "ordersDetailCancelledMessage": "Số tiền đã được hoàn vào số dư VietGig của bạn.",
+  "ordersDetailExpectedDelivery": "Ngày giao dự kiến",
+  "ordersDetailRemindOffAction": "Tắt nhắc",
+  "ordersDetailRemindMe": "Nhắc tôi",
+  "ordersDetailAddedToCalendar": "Đã thêm hạn giao {date} vào lịch",
+  "@ordersDetailAddedToCalendar": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailAddToCalendar": "Thêm vào lịch",
+  "ordersDetailActivity": "Hoạt động",
+  "ordersCheckoutTitle": "Nâng cấp",
+  "ordersCheckoutGigNotFoundTitle": "Không tìm thấy dịch vụ",
+  "ordersCheckoutGigNotFoundMessage": "Dịch vụ này có thể đã ngừng bán.",
+  "ordersCheckoutExploreOther": "Khám phá dịch vụ khác",
+  "ordersCheckoutSelectedPackage": "Gói đã chọn",
+  "ordersCheckoutDeliveryIn": "Giao trong {days} ngày",
+  "@ordersCheckoutDeliveryIn": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersCheckoutRevisions": "{revisions} lượt chỉnh sửa",
+  "@ordersCheckoutRevisions": {
+    "placeholders": {
+      "revisions": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersCheckoutAddExtras": "Thêm dịch vụ cho đơn hàng",
+  "ordersCheckoutNoExtras": "Dịch vụ này không có tuỳ chọn bổ sung.",
+  "ordersCheckoutEstimatedDelivery": "Thời gian giao dự kiến: {days} ngày",
+  "@ordersCheckoutEstimatedDelivery": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersCheckoutContinue": "Tiếp tục ({amount})",
+  "@ordersCheckoutContinue": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersCheckoutNoExtraTime": "Không thêm thời gian",
+  "ordersCheckoutExtraDays": "+{days} ngày",
+  "@ordersCheckoutExtraDays": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersCheckoutFasterDays": "Giao nhanh hơn {days} ngày",
+  "@ordersCheckoutFasterDays": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersCheckoutQuantity": "Số lượng",
+  "ordersAddCardTitle": "Thêm thẻ mới",
+  "ordersAddCardInvalidNumber": "Số thẻ không hợp lệ",
+  "ordersAddCardInvalidMonth": "Tháng không hợp lệ",
+  "ordersAddCardExpired": "Thẻ đã hết hạn",
+  "ordersAddCardHolderPlaceholder": "HỌ TÊN CHỦ THẺ",
+  "ordersAddCardNumber": "Số thẻ",
+  "ordersAddCardNumberRequired": "Vui lòng nhập số thẻ hợp lệ",
+  "ordersAddCardLastName": "Họ",
+  "ordersAddCardFirstName": "Tên",
+  "ordersAddCardRequired": "Bắt buộc",
+  "ordersAddCardCvvHelp": "3–4 chữ số ở mặt sau thẻ",
+  "ordersAddCardSecure": "Thông tin thẻ được mã hoá và lưu trữ an toàn.",
+  "ordersAddCardPay": "Thanh toán",
+  "ordersReviewTitle": "Xem lại đơn hàng",
+  "ordersReviewMethodCard": "Thẻ tín dụng/ghi nợ",
+  "ordersReviewMethodBank": "Chuyển khoản ngân hàng",
+  "ordersReviewPromoTitle": "Mã khuyến mãi",
+  "ordersReviewPromoHint": "Nhập mã, VD: VIETGIG10",
+  "ordersReviewPromoEmpty": "Vui lòng nhập mã",
+  "ordersReviewPromoInvalid": "Mã không hợp lệ hoặc đã hết hạn",
+  "ordersReviewPromoApplied": "Đã áp dụng mã {code} – giảm 10%",
+  "@ordersReviewPromoApplied": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersReviewCardAdded": "Đã thêm thẻ thanh toán",
+  "ordersReviewPayFailed": "Thanh toán thất bại: {error}",
+  "@ordersReviewPayFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersReviewSuccessTitle": "Tuyệt vời! Đơn hàng đã được tạo",
+  "ordersReviewSuccessNeedRequirements": "Hãy gửi yêu cầu để người bán bắt đầu thực hiện đơn hàng của bạn.",
+  "ordersReviewSuccessStarted": "Người bán sẽ bắt đầu thực hiện ngay. Chúc mừng bước đầu tiên của bạn!",
+  "ordersReviewViewOrder": "Xem đơn hàng",
+  "ordersReviewCustomOffer": "Báo giá riêng",
+  "ordersReviewPaymentMethod": "Phương thức thanh toán",
+  "ordersReviewCardSaved": "Thẻ đã lưu – sẵn sàng thanh toán",
+  "ordersReviewOrderDetails": "Chi tiết đơn hàng",
+  "ordersReviewExtras": "Dịch vụ thêm",
+  "ordersReviewSummary": "Tóm tắt",
+  "ordersReviewFeeTooltip": "Phí giúp VietGig vận hành nền tảng và hỗ trợ khách hàng 24/7.",
+  "ordersReviewEnterCode": "Nhập mã",
+  "ordersReviewTotal": "Tổng",
+  "ordersReviewEstimatedDelivery": "Ngày giao dự kiến",
+  "ordersReviewTerms": "Khi nhấn nút bên dưới, bạn đồng ý với Điều khoản dịch vụ và Chính sách thanh toán của VietGig. Số tiền chỉ được chuyển cho người bán khi bạn duyệt bản giao.",
+  "ordersReviewSecure": "Thông tin thanh toán của bạn được bảo mật",
+  "ordersReviewAddPayment": "Thêm phương thức thanh toán",
+  "ordersReviewPay": "Thanh toán ({amount})",
+  "@ordersReviewPay": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersReviewProcessing": "Đang xử lý đơn hàng của bạn…",
+  "ordersReviewDontClose": "Vui lòng không đóng ứng dụng.",
+  "ordersReqTitle": "Yêu cầu",
+  "ordersReqFallbackQuestion": "Hãy mô tả chi tiết yêu cầu của bạn cho đơn hàng này.",
+  "ordersReqSendFailed": "Không gửi được yêu cầu: {error}",
+  "@ordersReqSendFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersReqSent": "Đã gửi yêu cầu. Đơn hàng của bạn đã bắt đầu!",
+  "ordersReqAlreadyTitle": "Yêu cầu đã được gửi",
+  "ordersReqAlreadyMessage": "Đơn hàng này không cần thêm thông tin. Bạn có thể nhắn tin cho người bán nếu muốn bổ sung.",
+  "ordersReqBackToOrder": "Quay lại đơn hàng",
+  "ordersReqOptional": "(không bắt buộc)",
+  "ordersReqConfirm": "Tôi xác nhận thông tin cung cấp là chính xác và đầy đủ. Mọi thay đổi sau này cần người bán đồng ý và có thể phát sinh chi phí.",
+  "ordersReqSubmit": "Gửi yêu cầu",
+  "ordersReqHint": "Vui lòng điền thông tin cần thiết",
+  "ordersReqAttachMore": "Đính kèm tệp khác",
+  "ordersDeliverTitle": "Giao hàng",
+  "ordersDeliverNoQuickResponses": "Bạn chưa có mẫu trả lời nhanh nào",
+  "ordersDeliverQuickResponses": "Trả lời nhanh",
+  "ordersDeliverSendError": "Không gửi được bản giao: {error}",
+  "@ordersDeliverSendError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDeliverSent": "Đã gửi bản giao cho khách. Khách có 3 ngày để duyệt.",
+  "ordersDeliverSellerOnly": "Chỉ người bán mới có thể giao đơn hàng",
+  "ordersDeliverUnavailable": "Không thể giao đơn hàng lúc này",
+  "ordersDeliverCurrentStatus": "Trạng thái hiện tại: {status}.",
+  "@ordersDeliverCurrentStatus": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDeliverBackToOrder": "Quay lại đơn hàng",
+  "ordersDeliverMessageTo": "Lời nhắn gửi {name}",
+  "@ordersDeliverMessageTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDeliverInsertQuick": "Chèn mẫu trả lời nhanh",
+  "ordersDeliverMessageHint": "Mô tả những gì bạn giao, hướng dẫn sử dụng tệp và lời cảm ơn tới khách (ít nhất 10 ký tự).",
+  "ordersDeliverAttachments": "Tệp đính kèm",
+  "ordersDeliverAttachMore": "Đính kèm thêm tệp",
+  "ordersDeliverFileNote": "Tối đa 5 GB mỗi tệp. Khách sẽ nhận được thông báo ngay khi bạn gửi bản giao.",
+  "ordersDeliverUploading": "Đang tải tệp lên…",
+  "ordersDeliverSubmit": "Gửi bản giao",
+  "ordersResolutionError": "Có lỗi xảy ra: {error}",
+  "@ordersResolutionError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersResolutionUpdateChat": "[Yêu cầu cập nhật đơn {code}] {text}",
+  "@ordersResolutionUpdateChat": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersResolutionUpdateSent": "Đã gửi yêu cầu cập nhật tới {name}",
+  "@ordersResolutionUpdateSent": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersResolutionTitle": "Trung tâm giải quyết",
+  "ordersResolutionUpdateTitle": "Yêu cầu cập nhật",
+  "ordersResolutionExtendTitle": "Gia hạn thời gian giao",
+  "ordersResolutionCancelTitle": "Huỷ đơn hàng",
+  "ordersResolutionSupportPrompt": "Không tìm thấy điều bạn cần? ",
+  "ordersResolutionSupportLink": "Liên hệ Bộ phận hỗ trợ",
+  "ordersResolutionOrderInfo": "Thông tin đơn hàng",
+  "ordersResolutionDisputeTitle": "Đang giải quyết tranh chấp",
+  "ordersResolutionDisputeBody": "Đơn hàng này đang có một yêu cầu chờ phản hồi. Vui lòng đợi bên kia phản hồi trước khi mở yêu cầu mới. Nếu gặp vấn đề, Bộ phận hỗ trợ của VietGig luôn sẵn sàng giúp bạn.",
+  "ordersResolutionPendingCancel": "Yêu cầu huỷ đơn",
+  "ordersResolutionPendingExtend": "Yêu cầu gia hạn {days} ngày",
+  "@ordersResolutionPendingExtend": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersResolutionPendingLine": "{request} · gửi lúc {time}",
+  "@ordersResolutionPendingLine": {
+    "placeholders": {
+      "request": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersResolutionCompleted": "Đơn hàng đã hoàn thành",
+  "ordersResolutionCancelled": "Đơn hàng đã bị huỷ",
+  "ordersResolutionEndedBody": "Đơn hàng đã kết thúc nên không thể mở yêu cầu mới. Nếu cần hỗ trợ, hãy liên hệ với chúng tôi.",
+  "ordersResolutionWelcome": "Chào mừng!",
+  "ordersResolutionWelcomeBody": "Bạn có thể giải quyết vấn đề với đơn hàng tại đây.",
+  "ordersResolutionHowHelp": "Chúng tôi giúp gì được cho bạn?",
+  "ordersResolutionMenuUpdate": "Yêu cầu cập nhật tiến độ",
+  "ordersResolutionMenuMessageBuyer": "Nhắn tin cho khách",
+  "ordersResolutionUpdateHeading": "Gửi lời nhắn tới người bán",
+  "ordersResolutionUpdateBody": "Hỏi {name} về tiến độ đơn hàng. Tin nhắn sẽ được gửi vào hộp thư của bạn.",
+  "@ordersResolutionUpdateBody": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersResolutionUpdateHint": "VD: Chào bạn, mình muốn hỏi đơn hàng đang tiến triển thế nào rồi?",
+  "ordersResolutionSendRequest": "Gửi yêu cầu",
+  "ordersResolutionExtendHeading": "Bạn cần thêm bao nhiêu ngày?",
+  "ordersResolutionExtendDays": "Số ngày gia hạn",
+  "ordersResolutionCurrentDue": "Ngày giao hiện tại",
+  "ordersResolutionNewDue": "Dự kiến giao ngày",
+  "ordersResolutionMessage": "Lời nhắn",
+  "ordersResolutionExtendHintSeller": "VD: Mình cần thêm thời gian để hoàn thiện chi tiết cho bạn. Mong bạn thông cảm!",
+  "ordersResolutionExtendHintBuyer": "VD: Mình cần thêm thời gian để chuẩn bị tài liệu cho bạn.",
+  "ordersResolutionExtendNoteSeller": "Khách có 2 ngày để phản hồi. Nếu không phản hồi, yêu cầu sẽ tự động được chấp nhận.",
+  "ordersResolutionExtendNoteBuyer": "Người bán có 2 ngày để phản hồi. Nếu không phản hồi, yêu cầu sẽ tự động được chấp nhận.",
+  "ordersResolutionExtendSubmit": "Gửi yêu cầu gia hạn",
+  "ordersResolutionExtendSent": "Đã gửi yêu cầu gia hạn {days} ngày",
+  "@ordersResolutionExtendSent": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersResolutionRefundNote": "Nếu người bán đồng ý, {amount} sẽ được hoàn vào số dư VietGig của bạn.",
+  "@ordersResolutionRefundNote": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersResolutionFeedbackHeading": "Phản hồi cho người bán",
+  "ordersResolutionCancelHint": "Cho người bán biết lý do bạn muốn huỷ đơn (không bắt buộc)",
+  "ordersResolutionReasonHeading": "Lý do huỷ",
+  "ordersResolutionReasonNote": "Chỉ VietGig thấy lý do này.",
+  "ordersResolutionReasonNoResponse": "Người bán không phản hồi",
+  "ordersResolutionReasonQuality": "Chất lượng kém",
+  "ordersResolutionReasonWrongItem": "Không nhận được đúng thứ đã đặt",
+  "ordersResolutionReasonTooMuchGuidance": "Người bán cần quá nhiều hướng dẫn",
+  "ordersResolutionReasonLanguage": "Rào cản ngôn ngữ",
+  "ordersResolutionReasonOther": "Khác",
+  "ordersResolutionRateSeller": "Đánh giá trải nghiệm với người bán",
+  "ordersResolutionCancelSubmit": "Gửi yêu cầu huỷ",
+  "ordersResolutionSellerRatingNote": "(Đánh giá người bán: {rating}/5)",
+  "@ordersResolutionSellerRatingNote": {
+    "placeholders": {
+      "rating": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersResolutionCancelSent": "Đã gửi yêu cầu huỷ. Người bán có tối đa 2 ngày để phản hồi.",
+  "ordersRateThanksReview": "Cảm ơn bạn đã đánh giá!",
+  "ordersRateSubmitError": "Không gửi được đánh giá: {error}",
+  "@ordersRateSubmitError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRateCustomTitle": "Số tiền tuỳ chỉnh (VND)",
+  "ordersRateCustomHint": "VD: 70000",
+  "ordersRateCustomHelper": "Tối thiểu 25.000 ₫",
+  "ordersRateCustomError": "Số tiền tối thiểu là 25.000 ₫",
+  "ordersRateTipError": "Không gửi được tip: {error}",
+  "@ordersRateTipError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRateTipSent": "Đã gửi tip {amount} cho {name}. Cảm ơn bạn!",
+  "@ordersRateTipSent": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRateLater": "Để sau",
+  "ordersRateSkip": "Bỏ qua",
+  "ordersRateBuyerOnly": "Chỉ người mua mới có thể đánh giá đơn hàng này",
+  "ordersRateNotYet": "Chưa thể đánh giá",
+  "ordersRateNotYetBody": "Bạn có thể đánh giá sau khi duyệt bản giao và đơn hàng hoàn thành.",
+  "ordersRateContinue": "Tiếp tục",
+  "ordersRateStar1": "Kém",
+  "ordersRateStar2": "Tạm",
+  "ordersRateStar3": "Tốt",
+  "ordersRateStar4": "Rất tốt",
+  "ordersRateStar5": "Xuất sắc",
+  "ordersRatePositiveDetail": "Chú ý chi tiết",
+  "ordersRatePositiveCreative": "Sáng tạo",
+  "ordersRatePositiveAesthetic": "Thẩm mỹ",
+  "ordersRatePositiveProfessional": "Chuyên nghiệp",
+  "ordersRatePositiveExceeded": "Vượt kỳ vọng",
+  "ordersRatePositiveOnBrand": "Đúng thương hiệu",
+  "ordersRateNegativeLate": "Chậm tiến độ",
+  "ordersRateNegativeDetail": "Thiếu chi tiết",
+  "ordersRateNegativeOffBrief": "Không đúng yêu cầu",
+  "ordersRateNegativeCommunication": "Giao tiếp chưa tốt",
+  "ordersRateNegativeQuality": "Chất lượng chưa đạt",
+  "ordersRateNegativeRevisions": "Cần nhiều chỉnh sửa",
+  "ordersRateQualityTitle": "Bạn đánh giá chất lượng bản giao thế nào?",
+  "ordersRateGoodTitle": "Thật tuyệt! Điều gì khiến nó xuất sắc?",
+  "ordersRateBadTitle": "Rất tiếc! Điều gì chưa ổn?",
+  "ordersRateValueTitle": "Bạn đánh giá giá trị của bản giao?",
+  "ordersRateValueBody": "Dự án mất {days} ngày với chi phí {amount}.",
+  "@ordersRateValueBody": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRateTopicsDefault": "chất lượng, giao tiếp và thời gian phản hồi",
+  "ordersRateWriteTitle": "Viết đánh giá công khai",
+  "ordersRateWriteBody": "Chia sẻ chi tiết về trải nghiệm làm việc với người bán và kết quả cuối cùng, cùng các chủ đề như: {topics}.",
+  "@ordersRateWriteBody": {
+    "placeholders": {
+      "topics": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRateTextHint": "Viết ít nhất 10 ký tự. Hãy cho người mua khác biết cảm nhận trung thực của bạn.",
+  "ordersRateShareTitle": "Chia sẻ mẫu công việc công khai",
+  "ordersRateShareBody": "Mẫu công việc có thể hiển thị cùng đánh giá trên trang người bán. Tôi xác nhận mẫu không chứa thông tin cá nhân hay nhạy cảm.",
+  "ordersRateSubmit": "Gửi đánh giá",
+  "ordersRatePublicNote": "Giá đơn hàng và thông tin hồ sơ của bạn sẽ hiển thị công khai cùng đánh giá.",
+  "ordersRateThanks": "Cảm ơn bạn!",
+  "ordersRateTipped": "Bạn đã gửi tip {amount} cho {name}.",
+  "@ordersRateTipped": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRateTipPrompt": "Bạn có thể gửi tip để cảm ơn {name}. Tip được chuyển 100% cho người bán.",
+  "@ordersRateTipPrompt": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRateCustom": "Tuỳ chỉnh",
+  "ordersRateSendTip": "Gửi tip",
+  "ordersRateSendTipAmount": "Gửi tip {amount}",
+  "@ordersRateSendTipAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRateNoFee": "Bạn sẽ không bị tính phí dịch vụ cho tiền tip.",
+  "profileAccount": "Tài khoản",
+  "profileLanguage": "Ngôn ngữ",
+  "profileAppearance": "Giao diện",
+  "profileCurrency": "Tiền tệ",
+  "profileNotifications": "Thông báo",
+  "profileSecurity": "Bảo mật",
+  "profilePreferences": "Tuỳ chọn",
+  "profileSupportCenter": "Trung tâm hỗ trợ",
+  "profileSendFeedback": "Gửi góp ý",
+  "profileThemeLight": "Sáng",
+  "profileThemeDark": "Tối",
+  "profileThemeSystem": "Theo hệ thống",
+  "profileThemeSystemShort": "Hệ thống",
+  "profileFeedbackIdea": "Chia sẻ ý tưởng",
+  "profileFeedbackIdeaHint": "Gợi ý tính năng mới hoặc cải tiến",
+  "profileFeedbackBug": "Báo lỗi",
+  "profileFeedbackBugHint": "Có gì đó không hoạt động như mong đợi",
+  "profileSwitchedToSeller": "Đã chuyển sang chế độ người bán",
+  "profileSwitchedToBuyer": "Đã chuyển sang chế độ người mua",
+  "profileSwitchModeFailed": "Không thể chuyển chế độ, vui lòng thử lại.",
+  "profileBecomeSellerTitle": "Trở thành người bán?",
+  "profileBecomeSellerMessage": "Bạn có thể đăng dịch vụ, nhận đơn và kiếm thu nhập trên VietGig. Bạn luôn có thể chuyển lại chế độ người mua.",
+  "profileBecomeSellerConfirm": "Bắt đầu bán",
+  "profileSellerMode": "Chế độ người bán",
+  "profileSellerModeOn": "Quản lý dịch vụ và đơn bán",
+  "profileSellerModeOff": "Bật để bắt đầu bán dịch vụ",
+  "profileMyVietGig": "VietGig của tôi",
+  "profileEarnings": "Thu nhập",
+  "profileOfferTemplates": "Mẫu báo giá",
+  "profileBuyerBriefs": "Brief từ người mua",
+  "profileShareGigs": "Chia sẻ dịch vụ",
+  "profileMyProfile": "Hồ sơ của tôi",
+  "profileAvailability": "Lịch làm việc",
+  "profileSavedLists": "Danh sách đã lưu",
+  "profileMyInterests": "Sở thích của tôi",
+  "profileBrowsingHistory": "Lịch sử xem",
+  "profileInviteFriends": "Mời bạn bè",
+  "profileSettings": "Cài đặt",
+  "profileSupport": "Hỗ trợ",
+  "profileBecomeSeller": "Trở thành người bán",
+  "profileNeedActivation": "Bạn cần kích hoạt tài khoản",
+  "profileActivateAccount": "Kích hoạt tài khoản",
+  "profileGuest": "Khách",
+  "profileGuestWelcome": "Chào mừng đến VietGig!",
+  "profileJoin": "Tham gia VietGig",
+  "profileGeneral": "Chung",
+  "profileVersion": "Phiên bản {version}",
+  "@profileVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "profileSignOutTitle": "Đăng xuất?",
+  "profileSignOutMessage": "Bạn sẽ cần đăng nhập lại để tiếp tục mua và bán dịch vụ.",
+  "profileSignOut": "Đăng xuất",
+  "profileSignOutFailed": "Đăng xuất thất bại, vui lòng thử lại.",
+  "profileAccountInfo": "Thông tin tài khoản",
+  "profileUsername": "Tên người dùng",
+  "profileFullName": "Họ và tên",
+  "profileEmail": "Email",
+  "profileVerified": "Đã xác minh",
+  "profileUnverified": "Chưa xác minh",
+  "profileEditProfile": "Sửa hồ sơ",
+  "profilePersonalBalance": "Số dư cá nhân",
+  "profileManageAccount": "Quản lý tài khoản",
+  "profileDeactivateAndDelete": "Huỷ kích hoạt & xoá tài khoản",
+  "profilePrivacy": "Quyền riêng tư",
+  "profilePrivacySearchVisible": "Hiển thị hồ sơ trên công cụ tìm kiếm",
+  "profilePrivacyPersonalized": "Cho phép cá nhân hoá gợi ý dịch vụ",
+  "profilePrivacyShareUsage": "Chia sẻ dữ liệu sử dụng ẩn danh",
+  "profilePrivacySaved": "Đã lưu cài đặt quyền riêng tư",
+  "profileOnlineStatus": "Trạng thái online",
+  "profileOnlineStatusHint": "Bạn sẽ hiển thị online khi đang mở ứng dụng.",
+  "profileOnlineShown": "Bạn đang hiển thị online",
+  "profileOnlineHidden": "Đã ẩn trạng thái online",
+  "profileResetLinkSent": "Đã gửi liên kết đổi mật khẩu tới email của bạn",
+  "profileChangePassword": "Đổi mật khẩu",
+  "profileChangePasswordHint": "Nhận liên kết đặt lại mật khẩu qua email",
+  "profileTwoFactor": "Xác thực 2 lớp",
+  "profileTwoFactorHint": "Yêu cầu mã xác minh khi đăng nhập trên thiết bị mới",
+  "profileTwoFactorOn": "Đã bật xác thực 2 lớp",
+  "profileTwoFactorOff": "Đã tắt xác thực 2 lớp",
+  "profileLanguageChanged": "Đã chuyển ngôn ngữ sang {language}",
+  "@profileLanguageChanged": {
+    "placeholders": {
+      "language": {
+        "type": "String"
+      }
+    }
+  },
+  "profilePushTab": "Thông báo đẩy",
+  "profileEmailTab": "Email",
+  "profileSendTestPush": "Gửi thông báo thử",
+  "profileTestPushSent": "Đã gửi thông báo thử tới thiết bị của bạn",
+  "profileSendTestEmail": "Gửi email thử",
+  "profileTestEmailSent": "Đã gửi email thử tới hộp thư của bạn",
+  "profileCurrencyVnd": "Đồng Việt Nam",
+  "profileCurrencyUsd": "Đô la Mỹ",
+  "profileCurrencyEur": "Euro",
+  "profileCurrencyGbp": "Bảng Anh",
+  "profileCurrencyJpy": "Yên Nhật",
+  "profileCurrencyKrw": "Won Hàn Quốc",
+  "profileCurrencyCny": "Nhân dân tệ",
+  "profileCurrencySgd": "Đô la Singapore",
+  "profileCurrencyThb": "Baht Thái",
+  "profileCurrencyAud": "Đô la Úc",
+  "profileCurrencyCad": "Đô la Canada",
+  "profileCurrencyChanged": "Đã đổi tiền tệ hiển thị sang {currency}",
+  "@profileCurrencyChanged": {
+    "placeholders": {
+      "currency": {
+        "type": "String"
+      }
+    }
+  },
+  "profileAppearanceSystemNote": "Nếu chọn \"Hệ thống\", VietGig sẽ tự động điều chỉnh giao diện theo cài đặt của thiết bị.",
+  "profileBalanceHelpEarningsTitle": "Thu nhập",
+  "profileBalanceHelpEarnings": "Tiền bạn kiếm được từ dịch vụ của mình. Có thể rút về ngân hàng hoặc dùng để mua dịch vụ.",
+  "profileBalanceHelpRefundTitle": "Số dư từ đơn đã huỷ",
+  "profileBalanceHelpRefund": "Khoản tiền được hoàn từ các đơn hàng đã huỷ, có thể dùng cho lần mua tiếp theo.",
+  "profileBalanceHelpCreditsTitle": "Credits",
+  "profileBalanceHelpCredits": "Credits được dùng khi thanh toán đơn hàng. Hãy kiểm tra hạn sử dụng để không bị mất.",
+  "profileBalanceHelpPayTitle": "Thanh toán bằng số dư",
+  "profileBalanceHelpPay": "Khi có số dư, bạn có thể dùng tiền và credits làm phương thức thanh toán chính cho đơn mới.",
+  "profileBalanceExplain": "Giải thích",
+  "profileBalanceVietGig": "Số dư VietGig",
+  "profileBalanceFromCancelled": "Từ đơn đã huỷ",
+  "profileBalanceCreditsVietGig": "Credits VietGig",
+  "profileBalanceCredits": "Credits",
+  "profileBalanceMoreCredits": "Muốn có thêm credits? Giới thiệu bạn bè và nhận ưu đãi hấp dẫn!",
+  "profileBalanceGetCredits": "Nhận credits VietGig",
+  "profileReasonEmails": "Tôi muốn huỷ đăng ký nhận email từ VietGig",
+  "profileReasonUsername": "Tôi muốn đổi tên người dùng",
+  "profileReasonOtherAccount": "Tôi có một tài khoản VietGig khác",
+  "profileReasonNotFound": "Tôi không tìm được thứ mình cần",
+  "profileReasonComplex": "VietGig phức tạp hoặc khó sử dụng",
+  "profileReasonBadSeller": "Trải nghiệm không tốt với người bán",
+  "profileReasonPolicy": "Tôi không hài lòng với chính sách của VietGig",
+  "profileReasonOther": "Khác",
+  "profileDeactivateConfirmTitle": "Huỷ kích hoạt tài khoản?",
+  "profileDeactivateConfirmMessage": "Hồ sơ của bạn sẽ bị ẩn và các đơn đang thực hiện sẽ bị huỷ. Bạn có thể kích hoạt lại bằng cách đăng nhập.",
+  "profileDeactivateConfirm": "Huỷ kích hoạt",
+  "profileDeleteConfirmTitle": "Xoá vĩnh viễn tài khoản?",
+  "profileDeleteConfirmMessage": "Thao tác này không thể hoàn tác.",
+  "profileDeleteAccount": "Xoá tài khoản",
+  "profileActionNotAllowed": "Bạn không thể thực hiện thao tác này",
+  "profileGenericError": "Đã có lỗi xảy ra, vui lòng thử lại.",
+  "profileDeactivateAccount": "Huỷ kích hoạt tài khoản",
+  "profileContinue": "Tiếp tục",
+  "profileContinueDelete": "Tiếp tục xoá tài khoản",
+  "profileDeactivateTitle": "Huỷ kích hoạt & xoá",
+  "profileDeactivateHeading": "Huỷ kích hoạt hoặc xoá tài khoản VietGig",
+  "profileDeactivateIntro": "Nếu bạn muốn tạm ngưng sử dụng, hãy huỷ kích hoạt tài khoản. Nếu muốn xoá vĩnh viễn toàn bộ dữ liệu khỏi VietGig, hãy chọn xoá tài khoản.",
+  "profileDeactivateDescription": "Hồ sơ của bạn sẽ không hiển thị trên VietGig. Các đơn đang thực hiện sẽ bị huỷ.",
+  "profileDeleteDescription": "Xoá tài khoản là vĩnh viễn và không thể khôi phục. Bạn sẽ không thể lấy lại tệp hoặc thông tin từ các đơn hàng trên VietGig.",
+  "profileDeleteWhatHappens": "Điều gì xảy ra khi bạn xoá tài khoản?",
+  "profileDeletePermanentNote": "Quá trình xoá là vĩnh viễn và không thể hoàn tác. Có thể mất tới 30 ngày để hoàn tất.",
+  "profileDeleteBulletUsername": "Tên người dùng gắn với tài khoản này sẽ không thể dùng lại cho tài khoản mới.",
+  "profileDeleteBulletData": "Toàn bộ tin nhắn, đơn hàng, đánh giá và danh sách đã lưu sẽ bị xoá.",
+  "profileDeleteBulletBalance": "Số dư và credits chưa sử dụng sẽ bị huỷ.",
+  "profileDeleteBulletReview": "Bạn nên xem lại các đơn hàng và tải về tệp cần thiết trước khi xoá.",
+  "profileLeavingBecause": "Tôi rời đi vì",
+  "profileTellUsMore": "Hãy cho chúng tôi biết thêm (không bắt buộc)",
+  "profileTellUsMoreHint": "Giúp chúng tôi làm tốt hơn...",
+  "profileSpokenVietnamese": "Tiếng Việt",
+  "profileSpokenEnglish": "Tiếng Anh",
+  "profileSpokenChinese": "Tiếng Trung",
+  "profileSpokenJapanese": "Tiếng Nhật",
+  "profileSpokenKorean": "Tiếng Hàn",
+  "profileSpokenFrench": "Tiếng Pháp",
+  "profileSkillEmpty": "Nhập tên kỹ năng",
+  "profileSkillDuplicate": "Kỹ năng này đã có",
+  "profileSkillMax": "Tối đa {max} kỹ năng",
+  "@profileSkillMax": {
+    "placeholders": {
+      "max": {
+        "type": "int"
+      }
+    }
+  },
+  "profileNameTooShort": "Họ tên phải có ít nhất 2 ký tự",
+  "profileLanguageRequired": "Vui lòng chọn ít nhất một ngôn ngữ",
+  "profileSaved": "Đã lưu hồ sơ",
+  "profileSaveFailed": "Không lưu được hồ sơ, vui lòng thử lại.",
+  "profileChangeAvatar": "Đổi ảnh đại diện",
+  "profileAvatarUploadSoon": "Tải ảnh đại diện sẽ có khi kết nối máy chủ",
+  "profileNameHint": "VD: Nguyễn Minh Anh",
+  "profileHeadline": "Giới thiệu ngắn",
+  "profileHeadlineHint": "VD: Chủ cửa hàng thời trang online",
+  "profileBio": "Mô tả về bạn",
+  "profileBioHint": "Chia sẻ đôi chút về bạn, công việc và điều bạn đang tìm kiếm...",
+  "profileSkills": "Kỹ năng",
+  "profileSkillHint": "VD: Figma, Copywriting",
+  "profileAddSkill": "Thêm",
+  "profileNoSkills": "Chưa có kỹ năng nào.",
+  "profileSaveChanges": "Lưu thay đổi",
+  "profileAreaNotifications": "Thông báo",
+  "profileAreaInbox": "Hộp thư",
+  "profileAreaSearch": "Tìm dịch vụ",
+  "profileAreaPayments": "Thanh toán",
+  "profileAreaOrders": "Quản lý đơn",
+  "profileAreaOther": "Khác",
+  "profileAttachFile": "Đính kèm tệp",
+  "profileAttachScreenshot": "Ảnh chụp màn hình",
+  "profileAttachDocument": "Tài liệu",
+  "profileFeedbackThanksBug": "Cảm ơn bạn đã báo lỗi",
+  "profileFeedbackThanksIdea": "Cảm ơn bạn đã chia sẻ ý tưởng",
+  "profileFeedbackThanksBugMessage": "Đội ngũ kỹ thuật sẽ kiểm tra và khắc phục sớm nhất có thể.",
+  "profileFeedbackThanksIdeaMessage": "Góp ý của bạn giúp VietGig ngày càng tốt hơn cho cộng đồng.",
+  "profileFeedbackSendFailed": "Gửi thất bại, vui lòng thử lại.",
+  "profileFeedbackAreaBug": "Lỗi xảy ra ở khu vực nào?",
+  "profileFeedbackAreaIdea": "Ý tưởng liên quan khu vực nào?",
+  "profileFeedbackAreaRequired": "Vui lòng chọn một khu vực",
+  "profileFeedbackDescribeBug": "Mô tả lỗi bạn gặp phải",
+  "profileFeedbackDescribeIdea": "Kể cho chúng tôi về ý tưởng của bạn",
+  "profileFeedbackBugHintText": "Bạn đã làm gì, điều gì xảy ra và bạn mong đợi điều gì?",
+  "profileFeedbackIdeaHintText": "Ý tưởng của bạn là tính năng mới hay thay đổi tính năng hiện có? Nó sẽ giúp trải nghiệm tốt hơn thế nào?",
+  "profileFeedbackMinChars": "Vui lòng nhập ít nhất {n} ký tự",
+  "@profileFeedbackMinChars": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "profileRemoveFile": "Gỡ tệp",
+  "profileFeedbackCanContact": "Chúng tôi có thể liên hệ bạn nếu có câu hỏi không?",
+  "profileFeedbackContactYes": "Có, sẵn lòng trao đổi",
+  "profileFeedbackContactNo": "Không, lúc này thì không",
+  "profileFeedbackChoiceRequired": "Vui lòng chọn một lựa chọn",
+  "profileFeedbackSubmit": "Gửi",
+  "profileShareVia": "Chia sẻ qua",
+  "profileShareSms": "Tin nhắn SMS",
+  "profileShareLinkCopied": "Đã sao chép liên kết – dán vào {app} để gửi cho bạn bè",
+  "@profileShareLinkCopied": {
+    "placeholders": {
+      "app": {
+        "type": "String"
+      }
+    }
+  },
+  "profileInviteHeadline": "Chia sẻ & nhận tới 2.500.000 ₫",
+  "profileInviteBody": "Tặng bạn bè giảm 10% cho đơn đầu tiên, bạn nhận 10% giá trị đơn của họ dưới dạng credits.",
+  "profileReferralCode": "Mã giới thiệu của bạn",
+  "profileCodeCopied": "Đã sao chép mã giới thiệu",
+  "profileCopy": "Sao chép",
+  "profileInviteLinkCopied": "Đã sao chép liên kết mời",
+  "profileCopyLink": "Sao chép link",
+  "profileShare": "Chia sẻ",
+  "profileHowItWorks": "Cách hoạt động",
+  "profileInviteStep1Title": "Gửi lời mời",
+  "profileInviteStep1": "Chia sẻ mã hoặc liên kết giới thiệu cho bạn bè.",
+  "profileInviteStep2Title": "Bạn bè đặt đơn đầu tiên",
+  "profileInviteStep2": "Họ được giảm 10% cho đơn hàng đầu tiên trên VietGig.",
+  "profileInviteStep3Title": "Bạn nhận credits",
+  "profileInviteStep3": "Nhận 10% giá trị đơn, tối đa 2.500.000 ₫ trong 12 tháng.",
+  "profileGotIt": "Đã hiểu",
+  "profilePushEnabled": "Đã bật thông báo đẩy",
+  "profileMarkedAllRead": "Đã đánh dấu tất cả là đã đọc",
+  "profileMarkAllRead": "Đánh dấu đã đọc",
+  "profileNotifEmptyTitle": "Luôn cập nhật",
+  "profileNotifEmptyMessage": "Bật thông báo đẩy để không bỏ lỡ tin nhắn, cập nhật đơn hàng và ưu đãi.",
+  "profileEnablePush": "Bật thông báo đẩy",
+  "profileNotifToday": "HÔM NAY",
+  "profileNotifEarlier": "TRƯỚC ĐÓ",
+  "profileNotifDeleted": "Đã xoá thông báo",
+  "profileAccountNotice": "Thông báo tài khoản",
+  "profileAccountNoticeUnverified": "Chúng tôi đã gửi email xác nhận. Hãy kiểm tra hộp thư và kích hoạt tài khoản để dùng đầy đủ tính năng.",
+  "profileAccountNoticeComplete": "Hoàn thiện hồ sơ giúp người bán hiểu rõ bạn hơn và phản hồi nhanh hơn.",
+  "profileActivateEmailLink": "Kích hoạt email →",
+  "profileUpdateProfileLink": "Cập nhật hồ sơ →",
+  "profileFaq": "Câu hỏi thường gặp",
+  "profileFaqOrderQ": "Làm sao để đặt một dịch vụ?",
+  "profileFaqOrderA": "Tìm dịch vụ phù hợp, chọn gói, bấm \"Tiếp tục\" và thanh toán. Sau đó gửi yêu cầu để người bán bắt đầu làm việc.",
+  "profileFaqSafeQ": "Thanh toán trên VietGig có an toàn không?",
+  "profileFaqSafeA": "Tiền của bạn được VietGig giữ an toàn và chỉ chuyển cho người bán khi bạn chấp nhận bản giao.",
+  "profileFaqCancelQ": "Tôi có thể huỷ đơn hàng không?",
+  "profileFaqCancelA": "Bạn có thể gửi yêu cầu huỷ trong Trung tâm giải quyết của đơn hàng. Tiền hoàn sẽ vào Số dư VietGig.",
+  "profileFaqSellerQ": "Làm sao để trở thành người bán?",
+  "profileFaqSellerA": "Vào tab Tài khoản, bật \"Chế độ người bán\" rồi tạo dịch vụ đầu tiên của bạn.",
+  "profileFaqPayoutQ": "Khi nào tôi nhận được tiền từ đơn bán?",
+  "profileFaqPayoutA": "Thu nhập sẽ khả dụng để rút sau 7 ngày kể từ khi đơn hàng hoàn tất.",
+  "profileFaqPasswordQ": "Tôi quên mật khẩu thì phải làm sao?",
+  "profileFaqPasswordA": "Tại màn Đăng nhập, chọn \"Quên mật khẩu?\" và nhập email để nhận liên kết đặt lại.",
+  "profileContactUs": "Liên hệ với chúng tôi",
+  "profileSupportEmail": "Email hỗ trợ",
+  "profileSupportEmailHint": "{email} · phản hồi trong 24 giờ",
+  "@profileSupportEmailHint": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "profileSupportEmailCopied": "Đã sao chép địa chỉ email hỗ trợ",
+  "profileHotline": "Hotline",
+  "profileHotlineHint": "{phone} · 8:00 – 22:00 hằng ngày",
+  "@profileHotlineHint": {
+    "placeholders": {
+      "phone": {
+        "type": "String"
+      }
+    }
+  },
+  "profileHotlineCopied": "Đã sao chép số hotline",
+  "profileSupportRequest": "Gửi yêu cầu hỗ trợ",
+  "profileSupportRequestHint": "Mô tả vấn đề, chúng tôi sẽ liên hệ lại",
+  "profileSupportRequestSignIn": "Đăng nhập để gửi yêu cầu",
+  "profileNewEmailRequired": "Vui lòng nhập email mới",
+  "profileEmailInvalid": "Email không hợp lệ",
+  "profileEmailMustDiffer": "Email mới phải khác email hiện tại",
+  "profileEmailUpdated": "Email đã được cập nhật và đã gửi thư xác nhận.",
+  "profileUpdateEmailTitle": "Cập nhật địa chỉ email",
+  "profileUpdateEmailIntro": "Chúng tôi sẽ gửi email xác nhận tới địa chỉ mới của bạn.",
+  "profileCurrentEmail": "Email hiện tại",
+  "profileNewEmail": "Email mới",
+  "profileEmailHint": "vidu@email.com",
+  "profileUpdateEmailSubmit": "Cập nhật & gửi",
+  "savedHistoryTitle": "Lịch sử xem",
+  "savedHistoryClearTitle": "Xoá toàn bộ lịch sử xem?",
+  "savedHistoryClearMessage": "Các dịch vụ đã xem gần đây sẽ bị xoá khỏi tài khoản của bạn.",
+  "savedClearAll": "Xoá tất cả",
+  "savedHistoryCleared": "Đã xoá lịch sử xem",
+  "savedEdit": "Sửa",
+  "savedHistoryEmptyTitle": "Chưa có dịch vụ đã xem",
+  "savedHistoryEmptyMessage": "Các dịch vụ bạn xem sẽ xuất hiện ở đây để dễ dàng quay lại.",
+  "savedExploreVietGig": "Khám phá VietGig",
+  "savedHistoryRecent": "Dịch vụ đã xem gần đây",
+  "savedHistoryRemoved": "Đã xoá khỏi lịch sử xem",
+  "savedNameRequired": "Vui lòng nhập tên danh sách",
+  "savedListsTitle": "Danh sách của tôi",
+  "savedCreateList": "+ Tạo danh sách",
+  "savedListExists": "Bạn đã có danh sách tên \"{name}\"",
+  "@savedListExists": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "savedListCreated": "Đã tạo danh sách \"{name}\"",
+  "@savedListCreated": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "savedListsEmptyTitle": "Lưu các dịch vụ bạn thích",
+  "savedListsEmptyMessage": "Sắp xếp dịch vụ và người bán yêu thích vào các danh sách riêng.",
+  "savedPublicTitle": "Danh sách công khai",
+  "savedPublicSubtitle": "Ai có liên kết đều xem được",
+  "savedShare": "Chia sẻ",
+  "savedRename": "Đổi tên",
+  "savedDeleteList": "Xoá danh sách",
+  "savedMakePublicTitle": "Công khai danh sách?",
+  "savedMakePublicMessage": "Danh sách đang ở chế độ riêng tư. Bật công khai để người nhận liên kết có thể xem.",
+  "savedMakePublicConfirm": "Công khai & chia sẻ",
+  "savedRenameTitle": "Đổi tên danh sách",
+  "savedRenamed": "Đã đổi tên thành \"{name}\"",
+  "@savedRenamed": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "savedDeleteTitle": "Xoá danh sách này?",
+  "savedDeleteMessage": "Các dịch vụ và người bán trong \"{name}\" sẽ bị bỏ khỏi danh sách. Không thể hoàn tác.",
+  "@savedDeleteMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "savedListDeleted": "Đã xoá danh sách \"{name}\"",
+  "@savedListDeleted": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "savedRemovedFrom": "Đã bỏ khỏi \"{name}\"",
+  "@savedRemovedFrom": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "savedNotFoundTitle": "Danh sách không tồn tại",
+  "savedNotFoundMessage": "Danh sách này có thể đã bị xoá.",
+  "savedBackToLists": "Về danh sách của tôi",
+  "savedTabGigs": "Dịch vụ ({n})",
+  "@savedTabGigs": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "savedTabSellers": "Người bán ({n})",
+  "@savedTabSellers": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "savedOptions": "Tuỳ chọn",
+  "savedCreatedBy": "Tạo bởi {name}",
+  "@savedCreatedBy": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "savedCreatedByYou": "bạn",
+  "savedNoGigsTitle": "Chưa có dịch vụ nào",
+  "savedNoGigsMessage": "Bấm biểu tượng trái tim trên dịch vụ để lưu vào danh sách này.",
+  "savedExploreGigs": "Khám phá dịch vụ",
+  "savedUnsave": "Bỏ lưu",
+  "savedNoSellersTitle": "Chưa có người bán nào",
+  "savedNoSellersMessage": "Bấm \"Lưu\" trên hồ sơ người bán để thêm vào danh sách này.",
+  "searchCategoryNotFound": "Không tìm thấy danh mục",
+  "searchCategoryIntro": "Thuê freelancer chuyên nghiệp cho {subtitle} và nhiều hơn nữa.",
+  "@searchCategoryIntro": {
+    "placeholders": {
+      "subtitle": {
+        "type": "String"
+      }
+    }
+  },
+  "searchServiceCount": "{count} dịch vụ",
+  "@searchServiceCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "searchFeatured": "Dịch vụ nổi bật",
+  "searchNoGigsTitle": "Chưa có dịch vụ",
+  "searchNoGigsMessage": "Danh mục này chưa có dịch vụ nào. Hãy quay lại sau nhé!",
+  "searchTabCategories": "Danh mục",
+  "searchTabInterests": "Sở thích",
+  "searchInterestsGuestTitle": "Khám phá theo sở thích",
+  "searchInterestsGuestMessage": "Đăng nhập để chọn sở thích và nhận gợi ý dịch vụ phù hợp với bạn.",
+  "searchInterestsLoadError": "Không tải được sở thích",
+  "searchYourInterests": "Sở thích của bạn",
+  "searchEdit": "Sửa",
+  "searchInterestsHint": "Chọn sở thích để khám phá dịch vụ phù hợp hơn.",
+  "searchChooseInterests": "Chọn sở thích",
+  "searchYouMayLike": "Bạn cũng có thể thích",
+  "searchAddInterest": "Thêm vào sở thích",
+  "searchInterestAdded": "Đã thêm \"{name}\" vào sở thích",
+  "@searchInterestAdded": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "searchInterestsSaved": "Đã lưu sở thích của bạn",
+  "searchSaveFailed": "Không lưu được: {error}",
+  "@searchSaveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "searchDeselectAll": "Bỏ chọn",
+  "searchInterestsIntro": "Chọn những lĩnh vực bạn quan tâm, chúng tôi sẽ gợi ý dịch vụ phù hợp hơn.",
+  "searchInterestsSelected": "{n} sở thích đã chọn",
+  "@searchInterestsSelected": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "searchSellersHint": "Tìm người bán",
+  "searchTabGigs": "Dịch vụ",
+  "searchTabSellers": "Người bán",
+  "searchSuggestions": "Gợi ý",
+  "searchForQuery": "Tìm \"{query}\"",
+  "@searchForQuery": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "searchFillField": "Điền vào ô tìm kiếm",
+  "searchHistory": "Lịch sử tìm kiếm",
+  "searchClearHistory": "Xoá lịch sử",
+  "searchKeywordHint": "Nhập từ khoá như \"logo\", \"website\", \"dựng video\"…",
+  "searchRecentlyViewed": "Dịch vụ đã xem gần đây",
+  "searchManage": "Quản lý",
+  "searchSellersLoadError": "Không tải được danh sách người bán",
+  "searchSellerNotFound": "Không tìm thấy người bán",
+  "searchSellerNoMatch": "Không có người bán nào khớp với \"{query}\".",
+  "@searchSellerNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "searchDeliveryTime": "Thời gian giao",
+  "searchNoStyles": "Chưa có phong cách nào cho kết quả này",
+  "searchStyle": "Phong cách",
+  "searchAllStyles": "Tất cả phong cách",
+  "searchAllServices": "Tất cả dịch vụ",
+  "searchNoResults": "Không tìm thấy kết quả",
+  "searchNoResultsFiltered": "Hãy thử điều chỉnh hoặc xoá bộ lọc để xem thêm dịch vụ.",
+  "searchNoResultsHint": "Hãy thử từ khoá khác hoặc khám phá theo danh mục.",
+  "searchClearFilters": "Xoá bộ lọc",
+  "searchBrowseCategories": "Khám phá danh mục",
+  "searchRelated": "Kết quả liên quan",
+  "searchChipAll": "Tất cả",
+  "searchChipAllCount": "Tất cả ({n})",
+  "@searchChipAllCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "searchChipCategory": "Danh mục",
+  "searchChipIncludes": "Dịch vụ bao gồm",
+  "searchChipDelivery": "Giao hàng",
+  "searchSellerLevel": "Mức người bán",
+  "searchChipBudget": "Ngân sách",
+  "searchShopBy": "Mua theo",
+  "searchSearching": "Đang tìm…",
+  "searchResultCount": "{count} kết quả",
+  "@searchResultCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "searchAny": "Bất kỳ",
+  "searchDelivery24h": "Trong 24 giờ",
+  "searchDeliveryUpTo": "Tối đa {n} ngày",
+  "@searchDeliveryUpTo": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "searchFilterTitle": "Bộ lọc",
+  "searchClearAll": "Xoá tất cả",
+  "searchAllCategories": "Tất cả danh mục",
+  "searchPriceRange": "Khoảng giá (₫)",
+  "searchPriceMin": "Tối thiểu",
+  "searchPriceMax": "Tối đa",
+  "searchPriceError": "Giá tối thiểu phải nhỏ hơn giá tối đa",
+  "searchProOnly": "Chỉ dịch vụ Pro",
+  "searchProOnlyDesc": "Do người bán đã được VietGig thẩm định chất lượng cung cấp.",
+  "searchShowResults": "Hiện kết quả",
+  "searchShowResultsCount": "Hiện kết quả ({n})",
+  "@searchShowResultsCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "sellerEarnings": "Thu nhập",
+  "sellerAvailable": "Có thể rút",
+  "sellerActiveOrders": "Đơn đang chạy",
+  "sellerPaymentsClearing": "Thanh toán đang xử lý",
+  "sellerSuccessScore": "Điểm thành công",
+  "sellerRating": "Đánh giá",
+  "sellerResponseRate": "Tỉ lệ phản hồi",
+  "sellerOrders": "Đơn hàng",
+  "sellerClients": "Khách hàng",
+  "sellerGotIt": "Đã hiểu",
+  "sellerOptions": "Tuỳ chọn",
+  "sellerChartDateFormat": "dd/MM",
+  "sellerMonthFormat": "M",
+  "sellerDashLoadError": "Không tải được bảng điều khiển",
+  "sellerDashGreeting": "Chào {name},",
+  "@sellerDashGreeting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerDashGreetingFallback": "bạn",
+  "sellerDashWelcomeBack": "Chào mừng trở lại",
+  "sellerDashSetupTitle": "Hoàn thiện hồ sơ người bán",
+  "sellerDashSetupBody": "Tạo dịch vụ đầu tiên và hoàn thiện hồ sơ để bắt đầu nhận đơn từ khách hàng.",
+  "sellerDashSetupLink": "Xem dịch vụ của tôi →",
+  "sellerDashTodoTitle": "Việc cần làm",
+  "sellerDashUnreadMessages": "{n} tin nhắn chưa đọc",
+  "@sellerDashUnreadMessages": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "sellerDashUnreadNone": "Thời gian phản hồi của bạn đang tốt. Hãy tiếp tục phát huy!",
+  "sellerDashUnreadSome": "Trả lời sớm để giữ tỉ lệ phản hồi cao.",
+  "sellerDashOrdersToDeliver": "{n} đơn hàng cần giao",
+  "@sellerDashOrdersToDeliver": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "sellerDashOrdersNone": "Bạn không có đơn nào sắp đến hạn giao.",
+  "sellerDashOrdersSome": "Giao đúng hạn để giữ điểm thành công cao.",
+  "sellerDashMyGigs": "Dịch vụ của tôi",
+  "sellerDashManage": "Quản lý",
+  "sellerDashStats": "Thống kê",
+  "sellerDashLast7Days": "7 ngày qua",
+  "sellerDashImpressions": "Lượt hiển thị",
+  "sellerDashClicks": "Lượt nhấp",
+  "sellerDashConversion": "Chuyển đổi",
+  "sellerDashBriefsTitle": "Brief mới",
+  "sellerDashLearnMore": "Tìm hiểu thêm",
+  "sellerDashBriefsEmpty": "Chưa có brief mới",
+  "sellerDashBriefsCount": "{n} brief phù hợp với bạn",
+  "@sellerDashBriefsCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "sellerDashBriefsDesc": "Khám phá dự án tiềm năng từ khách hàng – brief phù hợp với kỹ năng của bạn sẽ được gửi đến đây.",
+  "sellerDashViewDetails": "Xem chi tiết",
+  "sellerDashEarningsThisMonth": "Thu nhập tháng này",
+  "sellerDashAvgPrice": "Giá bán TB",
+  "sellerDashCancelledOrders": "Đơn đã huỷ",
+  "sellerDashActiveOrdersTitle": "Đơn hàng đang thực hiện",
+  "sellerDashNoActiveOrders": "Chưa có đơn hàng nào đang thực hiện.",
+  "sellerDashMyLevel": "Cấp độ của tôi",
+  "sellerDashDue": "Hạn {date}",
+  "@sellerDashDue": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerLevelTitle": "Tổng quan cấp độ",
+  "sellerLevelSystem": "Hệ thống cấp độ",
+  "sellerLevelSystemDesc": "Cấp độ được đánh giá lại hằng tháng dựa trên hiệu suất 60 ngày gần nhất của bạn.",
+  "sellerLevelColumn": "Cấp độ",
+  "sellerLevelTopRatedNote": "Để đạt Top Rated, hồ sơ của bạn cần được đội ngũ VietGig xét duyệt thêm.",
+  "sellerLevelTopReached": "Bạn đã đạt cấp cao nhất!",
+  "sellerLevelNext": "Cấp tiếp theo: {level}",
+  "@sellerLevelNext": {
+    "placeholders": {
+      "level": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerLevelPerformance": "Chỉ số hiệu suất",
+  "sellerLevelBasedOn": "Dựa trên hoạt động 60 ngày gần nhất.",
+  "sellerLevelSuccessInfo": "Điểm từ 1–10 phản ánh mức độ hài lòng của khách hàng, dựa trên đánh giá riêng tư, tỉ lệ huỷ đơn và giao đúng hạn.",
+  "sellerLevelRatingInfo": "Điểm đánh giá trung bình người mua dành cho bạn.",
+  "sellerLevelResponseInfo": "Tỉ lệ tin nhắn mới bạn trả lời trong vòng 24 giờ.",
+  "sellerLevelOrdersInfo": "Số đơn hàng đã hoàn thành.",
+  "sellerLevelUniqueClients": "Khách hàng duy nhất",
+  "sellerLevelUniqueClientsInfo": "Số người mua khác nhau đã hoàn thành đơn với bạn.",
+  "sellerLevelEarningsInfo": "Tổng thu nhập từ các đơn đã hoàn thành.",
+  "sellerLevelReachNext": "Đạt cấp tiếp theo",
+  "sellerLevelProgressNext": "Tiến độ tới cấp tiếp theo",
+  "sellerLevelTarget": "Mục tiêu {level}",
+  "@sellerLevelTarget": {
+    "placeholders": {
+      "level": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerLevelExplain": "Giải thích",
+  "sellerRangeLast30": "30 ngày qua",
+  "sellerRangeLast3Months": "3 tháng qua",
+  "sellerRangeThisYear": "Năm nay",
+  "sellerRangeLastYear": "Năm ngoái",
+  "sellerEarningsPickRange": "Chọn khoảng thời gian",
+  "sellerEarningsWithdrawTo": "Rút {amount} về",
+  "@sellerEarningsWithdrawTo": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerEarningsBank": "Tài khoản ngân hàng",
+  "sellerEarningsBankSubtitle": "Vietcombank •••• 6789 · 1–3 ngày làm việc",
+  "sellerEarningsMomo": "Ví MoMo",
+  "sellerEarningsMomoSubtitle": "090 •••• 123 · Nhận ngay",
+  "sellerEarningsSentBank": "Đã gửi yêu cầu rút {amount} về tài khoản ngân hàng",
+  "@sellerEarningsSentBank": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerEarningsSentMomo": "Đã gửi yêu cầu rút {amount} về ví MoMo",
+  "@sellerEarningsSentMomo": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerEarningsWithdraw": "Rút tiền",
+  "sellerEarningsNothing": "Bạn chưa có khoản nào có thể rút.",
+  "sellerEarningsOverview": "Tổng quan",
+  "sellerEarningsCompleted": "Đơn hoàn thành",
+  "sellerEarningsTotal": "Tổng thu nhập: {amount}",
+  "@sellerEarningsTotal": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerEarningsTotalOrders": "Tổng đơn hoàn thành: {n}",
+  "@sellerEarningsTotalOrders": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "sellerEarningsAnalytics": "Phân tích",
+  "sellerEarningsMonth": "Thu nhập tháng {month}",
+  "@sellerEarningsMonth": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerEarningsAvgPrice": "Giá bán trung bình",
+  "sellerEarningsRevenue": "Doanh thu",
+  "sellerEarningsClearingInfo": "Khoản thanh toán từ đơn hoàn thành sẽ được giữ 14 ngày trước khi chuyển sang số dư có thể rút. Điều này giúp bảo vệ cả bạn và người mua khi có tranh chấp.",
+  "sellerEarningsToDate": "Thu nhập đến nay",
+  "sellerEarningsToDateInfo": "Tổng thu nhập bạn đã kiếm được trên VietGig kể từ khi bắt đầu bán, sau khi trừ phí dịch vụ.",
+  "sellerEarningsExpenses": "Chi phí đến nay",
+  "sellerEarningsExpensesInfo": "Tổng số tiền bạn đã dùng thu nhập để thanh toán trên VietGig, ví dụ mua dịch vụ hoặc quảng bá dịch vụ của mình.",
+  "sellerEarningsWithdrawn": "Đã rút đến nay",
+  "sellerEarningsWithdrawnInfo": "Tổng số tiền bạn đã rút từ VietGig về tài khoản ngân hàng hoặc ví điện tử.",
+  "sellerAvailTitle": "Lịch làm việc",
+  "sellerAvailReasonVacation": "Đi nghỉ",
+  "sellerAvailReasonOverloaded": "Quá tải công việc",
+  "sellerAvailReasonOther": "Khác",
+  "sellerAvailConfirmed": "Đã xác nhận ngày bận của bạn",
+  "sellerAvailChangesSaved": "Đã lưu thay đổi lịch bận",
+  "sellerAvailDeleted": "Đã xoá lịch bận",
+  "sellerAvailDesc": "Khi bận, dịch vụ của bạn bị ẩn và bạn không nhận đơn/tin nhắn mới. Tỉ lệ phản hồi của bạn sẽ không bị ảnh hưởng trong thời gian này.",
+  "sellerAvailSet": "Đặt ngày bận",
+  "sellerAvailUpcoming": "Ngày bận sắp tới",
+  "sellerAvailEdit": "Sửa",
+  "sellerAvailReasonLine": "Lý do: {reason}",
+  "@sellerAvailReasonLine": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerAvailReasonLineContact": "Lý do: {reason} · Người mua vẫn có thể liên hệ",
+  "@sellerAvailReasonLineContact": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerAvailPickFirst": "Chọn ngày đầu",
+  "sellerAvailPickLast": "Chọn ngày cuối",
+  "sellerAvailPick": "Chọn",
+  "sellerAvailSaveError": "Không lưu được: {error}",
+  "@sellerAvailSaveError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerAvailDeleteTitle": "Xoá lịch bận đã đặt?",
+  "sellerAvailDeleteMessage": "Thao tác này sẽ xoá các ngày bận hiện tại của bạn.",
+  "sellerAvailEditTitle": "Sửa ngày bận",
+  "sellerAvailFirstDay": "Ngày đầu",
+  "sellerAvailLastDay": "Ngày cuối",
+  "sellerAvailInvalidRange": "Ngày cuối phải sau hoặc trùng ngày đầu.",
+  "sellerAvailReason": "Lý do",
+  "sellerAvailNoteLabel": "Ghi chú (tuỳ chọn)",
+  "sellerAvailNoteHint": "Tôi đang bận, nhưng sẽ sớm quay lại.",
+  "sellerAvailNoteHelp": "Ghi chú này sẽ hiển thị trong thông báo trên trang dịch vụ và hồ sơ của bạn.",
+  "sellerAvailAllowContact": "Mọi người mua có thể liên hệ tôi",
+  "sellerAvailAllowContactOn": "Lưu ý: thời gian phản hồi các tin nhắn này vẫn tính vào tỉ lệ phản hồi. Chỉ bật nếu bạn có thể trả lời.",
+  "sellerAvailAllowContactOff": "Khi bận, người mua không thể đặt đơn hay liên hệ bạn, nhưng bạn vẫn có thể nhắn tin với người mua có đơn đang thực hiện.",
+  "sellerAvailSaveChanges": "Lưu thay đổi",
+  "sellerAvailConfirm": "Xác nhận ngày",
+  "sellerAvailDelete": "Xoá lịch bận",
+  "sellerBriefsTitle": "Brief",
+  "sellerBriefsPrefs": "Tuỳ chọn brief",
+  "sellerBriefsPrefsUpdated": "Đã cập nhật tuỳ chọn brief",
+  "sellerBriefsResponded": "Đã gửi phản hồi cho brief “{title}”",
+  "@sellerBriefsResponded": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerBriefsWhat": "Brief là gì?",
+  "sellerBriefsWhatBody": "Brief là mô tả dự án do người mua đăng lên. VietGig sẽ gửi đến bạn những brief phù hợp với dịch vụ và kỹ năng của bạn để bạn gửi báo giá.",
+  "sellerBriefsTabMatches": "Phù hợp với bạn",
+  "sellerBriefsTabSent": "Phản hồi đã gửi",
+  "sellerBriefsOffTitle": "Bạn đang tắt nhận brief",
+  "sellerBriefsOffMessage": "Bật lại \"Nhận brief mới\" trong tuỳ chọn để không bỏ lỡ dự án phù hợp.",
+  "sellerBriefsOffAction": "Mở tuỳ chọn brief",
+  "sellerBriefsEmptyTitle": "Chưa có brief phù hợp…",
+  "sellerBriefsEmptyMessage": "Chúng tôi sẽ báo cho bạn ngay khi có brief phù hợp với kỹ năng của bạn.",
+  "sellerBriefsSentEmptyTitle": "Có lẽ đã đến lúc cho một dự án mới",
+  "sellerBriefsSentEmptyMessage": "Phản hồi brief trong tab \"Phù hợp với bạn\" và quản lý các phản hồi đã gửi tại đây.",
+  "sellerBriefsIntroTitle": "Tab phù hợp của bạn",
+  "sellerBriefsNewBadge": "MỚI",
+  "sellerBriefsIntroBody": "Tất cả brief mới dành cho bạn sẽ hiển thị ở tab này – bạn có thể là người đầu tiên gửi báo giá.",
+  "sellerBriefsNext": "Tiếp",
+  "sellerBriefsBuyer": "Người mua",
+  "sellerBriefsBudget": "Ngân sách {budget} · {days}",
+  "@sellerBriefsBudget": {
+    "placeholders": {
+      "budget": {
+        "type": "String"
+      },
+      "days": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerBriefsSent": "Đã gửi",
+  "sellerBriefsSendOffer": "Gửi báo giá",
+  "sellerBriefsReceiveTitle": "Nhận brief",
+  "sellerBriefsReceiveDesc": "Chọn có muốn nhận brief hay không. Bạn có thể bật lại bất cứ lúc nào.",
+  "sellerBriefsReceiveNew": "Nhận brief mới",
+  "sellerBriefsPriceTitle": "Giá brief",
+  "sellerBriefsPriceDesc": "Đặt mức giá tối thiểu cho các brief bạn muốn nhận. Có thể thay đổi bất cứ lúc nào.",
+  "sellerBriefsMinPrice": "Giá tối thiểu (tuỳ chọn)",
+  "sellerBriefsPriceHint": "Nhập giá",
+  "sellerGigsShare": "Chia sẻ dịch vụ",
+  "sellerGigsShareTitle": "Chia sẻ dịch vụ của bạn",
+  "sellerGigsShareDesc": "Chia sẻ liên kết dịch vụ lên mạng xã hội để tiếp cận thêm nhiều người mua.",
+  "sellerGigsLinkCopied": "Đã sao chép liên kết dịch vụ",
+  "sellerGigsSampleNote": "Dịch vụ mẫu – bạn chưa có dịch vụ nào. Dưới đây là ví dụ để bạn tham khảo.",
+  "sellerGigsEmptyTitle": "Chưa có dịch vụ",
+  "sellerGigsEmptyMessage": "Tạo dịch vụ đầu tiên để bắt đầu nhận đơn.",
+  "sellerGigsResumed": "Dịch vụ đã hoạt động trở lại",
+  "sellerGigsPausedSnack": "Đã tạm dừng dịch vụ",
+  "sellerGigsBoost": "Tăng lượt truy cập",
+  "sellerGigsNoReviews": "Chưa có đánh giá",
+  "sellerGigsActive": "Đang hoạt động",
+  "sellerGigsPaused": "Tạm dừng",
+  "sellerGigsSample": "Dịch vụ mẫu",
+  "sellerGigsPromoTitle": "Quảng bá trên mạng xã hội",
+  "sellerGigsPromoBody": "Tạo video ngắn giới thiệu dịch vụ và chia sẻ lên Facebook, TikTok, Zalo để thu hút thêm người mua. Tính năng tạo video sẽ sớm ra mắt trên VietGig.",
+  "sellerGigsPromoBanner": "Quảng bá dịch vụ",
+  "sellerGigsFeatured": "Nổi bật",
+  "sellerGigsPromoHeadline": "Muốn có thêm người mua từ mạng xã hội? Tạo video quảng bá dịch vụ chỉ trong vài phút.",
+  "sellerTplTitle": "Mẫu báo giá",
+  "sellerTplSaved": "Đã lưu mẫu “{name}”",
+  "@sellerTplSaved": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerTplDeleted": "Đã xoá mẫu “{name}”",
+  "@sellerTplDeleted": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerTplCreate": "Tạo mẫu",
+  "sellerTplEmptyTitle": "Tạo mẫu cho báo giá riêng",
+  "sellerTplEmptyMessage": "Lưu báo giá làm mẫu để dùng lại cho những lần sau.",
+  "sellerTplSwipeHint": "Vuốt sang trái để xoá mẫu.",
+  "sellerTplSubtitle": "Thanh toán một lần | Giao trong {days}",
+  "@sellerTplSubtitle": {
+    "placeholders": {
+      "days": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerTplSheetTitle": "Tạo mẫu báo giá",
+  "sellerTplName": "Tên mẫu",
+  "sellerTplNameHint": "VD: Gói thiết kế cao cấp",
+  "sellerTplNameRequired": "Vui lòng nhập tên mẫu",
+  "sellerTplPrice": "Giá",
+  "sellerTplPriceRequired": "Vui lòng nhập giá",
+  "sellerTplPriceMin": "Giá tối thiểu là {amount}",
+  "@sellerTplPriceMin": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerTplDays": "Số ngày giao",
+  "sellerTplDaysSuffix": "ngày",
+  "sellerTplDaysInvalid": "Số ngày từ 1 đến 90",
+  "sellerTplSave": "Lưu mẫu"
+}

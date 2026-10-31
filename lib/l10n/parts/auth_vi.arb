@@ -1,0 +1,111 @@
+{
+  "authPwRuleLength": "Ít nhất 8 ký tự",
+  "authPwRuleUpper": "Ít nhất 1 chữ in hoa",
+  "authPwRuleLower": "Ít nhất 1 chữ thường",
+  "authPwRuleDigit": "Ít nhất 1 chữ số",
+  "authContinueWithApple": "Tiếp tục với Apple",
+  "authContinueWithGoogle": "Tiếp tục với Google",
+  "authContinueWithFacebook": "Tiếp tục với Facebook",
+  "authTermsPrefix": "Bằng việc tham gia, bạn đồng ý với ",
+  "authTermsLink": "Điều khoản dịch vụ",
+  "authTermsSuffix": " của VietGig.",
+  "authTermsBody": "1. Bạn chịu trách nhiệm về thông tin tài khoản và bảo mật mật khẩu.\n\n2. Mọi giao dịch phải được thực hiện qua VietGig để được bảo vệ thanh toán.\n\n3. Nghiêm cấm đăng tải nội dung vi phạm pháp luật Việt Nam hoặc quyền sở hữu trí tuệ.\n\n4. VietGig có quyền tạm khoá tài khoản vi phạm chính sách cộng đồng.\n\n5. Dữ liệu cá nhân được xử lý theo Chính sách quyền riêng tư.",
+  "authSkip": "Bỏ qua",
+  "authContinue": "Tiếp tục",
+  "authFinish": "Hoàn tất",
+  "authClear": "Xoá",
+  "authShowPassword": "Hiện mật khẩu",
+  "authHidePassword": "Ẩn mật khẩu",
+  "authPasswordHint": "Mật khẩu",
+  "authEmailHint": "Email",
+  "authResendEmail": "Gửi lại email",
+  "authWelcomeHeadline": "Dịch vụ freelance.\nTheo yêu cầu.",
+  "authWelcomeBuyTitle": "Tìm dịch vụ",
+  "authWelcomeBuySubtitle": "Tôi đang tìm freelancer tài năng để hợp tác",
+  "authWelcomeSellTitle": "Bán dịch vụ",
+  "authWelcomeSellSubtitle": "Tôi muốn cung cấp dịch vụ của mình",
+  "authSignInTitle": "Đăng nhập vào tài khoản",
+  "authSignInSubtitle": "Chào mừng bạn quay lại VietGig!",
+  "authIdHint": "Email hoặc tên người dùng",
+  "authIdRequired": "Vui lòng nhập email hoặc tên người dùng",
+  "authPasswordRequired": "Vui lòng nhập mật khẩu",
+  "authForgotLink": "Quên mật khẩu?",
+  "authNoAccount": "Chưa có tài khoản? ",
+  "authJoinNow": "Tham gia ngay",
+  "authDemoAccount": "Tài khoản dùng thử: {email} / {password}",
+  "@authDemoAccount": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      },
+      "password": {
+        "type": "String"
+      }
+    }
+  },
+  "authFill": "Điền",
+  "authSignUpTitle": "Tham gia VietGig",
+  "authSignUpSubtitle": "Có thể cần xác minh bổ sung ở bước sau.",
+  "authUsernameHint": "Tên người dùng công khai",
+  "authUsernameInvalid": "4–20 ký tự: chữ không dấu, số, \"_\" hoặc \".\"",
+  "authUsernameNote": "Bạn không thể đổi tên người dùng sau này, hãy chọn thật kỹ.",
+  "authEmailInvalid": "Email không hợp lệ",
+  "authSignUpSubmit": "Đăng ký",
+  "authHaveAccount": "Đã có tài khoản? ",
+  "authOnbPurposeWork": "Công việc hoặc kinh doanh chính",
+  "authOnbPurposeWorkDesc": "Dự án cho công ty bạn đang làm hoặc cho việc kinh doanh của riêng bạn.",
+  "authOnbPurposeSide": "Dự án phụ hoặc kinh doanh nhỏ",
+  "authOnbPurposeSideDesc": "Bất cứ việc gì bạn làm ngoài công việc chính, như một dự án tay trái.",
+  "authOnbPurposePersonal": "Mục đích cá nhân",
+  "authOnbPurposePersonalDesc": "Dịch vụ cho sự phát triển hoặc sở thích riêng, ngoài công việc.",
+  "authOnbExpNew": "Mới bắt đầu",
+  "authOnbExpOnline": "Freelance online",
+  "authOnbExpOffline": "Freelance offline",
+  "authOnbExpBoth": "Cả online và offline",
+  "authOnbSaveError": "Không lưu được lựa chọn, vui lòng thử lại.",
+  "authOnbPurposeTitle": "Bạn dùng VietGig để làm gì?",
+  "authOnbPurposeSub": "Có thể chọn nhiều mục.",
+  "authOnbInterestTitle": "Chọn dịch vụ phù hợp với nhu cầu của bạn",
+  "authOnbInterestSub": "Chọn ít nhất một mục.",
+  "authOnbOther": "Khác",
+  "authOnbLookingForTitle": "Bạn đang tìm dịch vụ gì?",
+  "authOnbLookingForHint": "VD: Thiết kế menu nhà hàng",
+  "authOnbExpTitle": "Kinh nghiệm freelance của bạn?",
+  "authOnbExpSub": "Dù bạn theo phong cách nào, chúng tôi đều hỗ trợ.",
+  "authVerifyResent": "Đã gửi lại email xác nhận",
+  "authVerifySendFailed": "Gửi email thất bại, vui lòng thử lại.",
+  "authVerifyActivated": "Tài khoản đã được kích hoạt!",
+  "authVerifyNotYet": "Chưa xác nhận được, vui lòng thử lại.",
+  "authVerifyDoneTitle": "Email của bạn đã được xác nhận",
+  "authVerifyTitle": "Xác nhận email để tiếp tục",
+  "authVerifySentTo": "Chúng tôi đã gửi email tới:",
+  "authVerifyBody": "Bấm vào liên kết trong email để xác minh địa chỉ và kích hoạt tài khoản của bạn.",
+  "authVerifyWrongEmail": "Không phải email bạn muốn dùng?",
+  "authVerifyChangeEmail": "Đổi địa chỉ email",
+  "authVerifyDemoNote": "Bản demo: bấm \"Tôi đã xác nhận\" để mô phỏng việc mở liên kết.",
+  "authVerifyConfirm": "Tôi đã xác nhận",
+  "authResendIn": "Gửi lại email sau {seconds}s",
+  "@authResendIn": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "authForgotInvalidEmail": "Vui lòng nhập email hợp lệ",
+  "authForgotSent": "Đã gửi liên kết đặt lại mật khẩu",
+  "authForgotTitle": "Quên mật khẩu",
+  "authForgotHeading": "Đặt lại mật khẩu",
+  "authForgotBody": "Nhập email bạn đã dùng để đăng ký, chúng tôi sẽ gửi liên kết đặt lại mật khẩu.",
+  "authForgotSubmit": "Gửi liên kết",
+  "authForgotCheckInbox": "Kiểm tra hộp thư của bạn",
+  "authForgotSentTo": "Chúng tôi đã gửi liên kết đặt lại mật khẩu tới\n{email}",
+  "@authForgotSentTo": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "authBackToSignIn": "Quay lại đăng nhập"
+}

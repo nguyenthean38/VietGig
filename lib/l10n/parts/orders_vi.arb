@@ -1,0 +1,762 @@
+{
+  "ordersNotFoundTitle": "Không tìm thấy đơn hàng",
+  "ordersNotFoundMessage": "Đơn hàng có thể đã bị xoá hoặc bạn không có quyền xem.",
+  "ordersNotFoundAction": "Về danh sách đơn hàng",
+  "ordersUnknownUser": "Người dùng VietGig",
+  "ordersAttachTitle": "Đính kèm tệp",
+  "ordersAttachCamera": "Mở máy ảnh",
+  "ordersAttachGallery": "Mở thư viện ảnh",
+  "ordersAttachFile": "Tệp",
+  "ordersRemoveFile": "Xoá tệp",
+  "ordersApply": "Áp dụng",
+  "ordersSend": "Gửi",
+  "ordersInfoDateCode": "{date} · Mã đơn {code}",
+  "@ordersInfoDateCode": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersInfoExtra": "Dịch vụ thêm: {name}",
+  "@ordersInfoExtra": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersInfoSubtotal": "Tạm tính",
+  "ordersInfoServiceFee": "Phí dịch vụ",
+  "ordersInfoTip": "Tiền tip",
+  "ordersInfoTotal": "Tổng thanh toán",
+  "ordersInfoDueDate": "Ngày giao",
+  "ordersInfoPaidWith": "Thanh toán qua",
+  "ordersManageTitle": "Quản lý đơn hàng",
+  "ordersNotifications": "Thông báo",
+  "ordersOptions": "Tuỳ chọn",
+  "ordersSortDue": "Hạn giao gần nhất",
+  "ordersSortNewest": "Mới đặt gần đây",
+  "ordersTabNeedsAction": "Cần xử lý",
+  "ordersTabInProgress": "Đang thực hiện",
+  "ordersTabNew": "Mới",
+  "ordersTabDelivered": "Đã giao",
+  "ordersTabCompleted": "Hoàn thành",
+  "ordersTabCancelled": "Đã huỷ",
+  "ordersTabWithCount": "{label} ({count})",
+  "@ordersTabWithCount": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersFilterTitle": "Sắp xếp & lọc",
+  "ordersFilterReset": "Đặt lại",
+  "ordersFilterSortBy": "Sắp xếp theo",
+  "ordersFilterStatus": "Trạng thái",
+  "ordersFilterAll": "Tất cả",
+  "ordersGroupOverdue": "Đã quá hạn",
+  "ordersGroupDue2Days": "Đến hạn trong 2 ngày",
+  "ordersGroupDue2To5Days": "Đến hạn trong 2–5 ngày",
+  "ordersGroupDueLater": "Đến hạn sau 5 ngày",
+  "ordersEmptyTitle": "Tất cả đơn hàng của bạn ở đây",
+  "ordersEmptySellerMessage": "Khi khách đặt dịch vụ của bạn, đơn hàng sẽ xuất hiện tại đây.",
+  "ordersEmptyBuyerMessage": "Khi bạn đặt một dịch vụ, bạn có thể theo dõi tiến độ đơn hàng tại đây.",
+  "ordersEmptySellerAction": "Quản lý dịch vụ của tôi",
+  "ordersEmptyBuyerAction": "Khám phá dịch vụ",
+  "ordersCardMenuTitle": "Đơn hàng {code}",
+  "@ordersCardMenuTitle": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersCardMenuOpen": "Xem chi tiết đơn hàng",
+  "ordersCardMenuChatBuyer": "Nhắn tin cho khách",
+  "ordersCardMenuChatSeller": "Nhắn tin cho người bán",
+  "ordersResolutionCenter": "Trung tâm giải quyết",
+  "ordersCopyCode": "Sao chép mã đơn",
+  "ordersCodeCopied": "Đã sao chép mã đơn {code}",
+  "@ordersCodeCopied": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersCardUser": "Người dùng",
+  "ordersCardLoading": "Đang tải…",
+  "ordersCardDue": "Hạn giao {date}",
+  "@ordersCardDue": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersCardPlaced": "Đặt ngày {date}",
+  "@ordersCardPlaced": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailError": "Có lỗi xảy ra: {error}",
+  "@ordersDetailError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailMenuUnread": "Đánh dấu chưa đọc",
+  "ordersDetailMenuExtra": "Thêm dịch vụ",
+  "ordersDetailDeliver": "Giao đơn hàng",
+  "ordersDetailMenuGig": "Xem dịch vụ",
+  "ordersDetailMarkedUnread": "Đã đánh dấu đơn hàng là chưa đọc",
+  "ordersDetailPickExtra": "Chọn dịch vụ bạn muốn thêm ở phía trên",
+  "ordersDetailAddExtraTitle": "Thêm \"{title}\"?",
+  "@ordersDetailAddExtraTitle": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailAddExtraMessage": "Bạn sẽ thanh toán thêm {price}.",
+  "@ordersDetailAddExtraMessage": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailAddExtraMessageDays": "Bạn sẽ thanh toán thêm {price} và thời gian giao kéo dài thêm {days} ngày.",
+  "@ordersDetailAddExtraMessageDays": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      },
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersDetailAddExtraConfirm": "Thêm",
+  "ordersDetailExtraAdded": "Đã thêm \"{title}\" vào đơn hàng",
+  "@ordersDetailExtraAdded": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailRequestAccepted": "Bạn đã chấp nhận yêu cầu",
+  "ordersDetailRequestDeclined": "Bạn đã từ chối yêu cầu",
+  "ordersDetailApproveTitle": "Sẵn sàng nhận bản cuối?",
+  "ordersDetailApproveMessage": "Sau bước này bạn sẽ không thể yêu cầu chỉnh sửa cho đơn hàng nữa.",
+  "ordersDetailCompletedSnack": "Đơn hàng đã hoàn thành!",
+  "ordersDetailRequestRevision": "Yêu cầu chỉnh sửa",
+  "ordersDetailNeedMoreTime": "Tôi cần thêm thời gian để xem",
+  "ordersDetailNewTag": "MỚI",
+  "ordersDetailResolutionPrefix": "Nếu gặp vấn đề với đơn hàng, hãy vào ",
+  "ordersDetailRevisionSubtitle": "Mô tả rõ những điểm bạn muốn người bán thay đổi.",
+  "ordersDetailRevisionHint": "VD: Bạn có thể đổi màu chủ đạo sang xanh đậm hơn không?",
+  "ordersDetailSendRequest": "Gửi yêu cầu",
+  "ordersDetailRevisionSent": "Đã gửi yêu cầu chỉnh sửa cho người bán",
+  "ordersDetailMoreTimeTitle": "Thêm thời gian xem bản giao",
+  "ordersDetailMoreTimeMessage": "Bạn cần thêm bao nhiêu ngày? Bạn có thể quay lại thêm nếu cần – tối đa 5 ngày.",
+  "ordersDetailNewReviewDeadline": "Hạn duyệt mới: {date}",
+  "@ordersDetailNewReviewDeadline": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailExtendReview": "Gia hạn thời gian xem",
+  "ordersDetailReviewExtended": "Xong! Bạn có thêm {days} ngày để xem bản giao.",
+  "@ordersDetailReviewExtended": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersDetailRemindOn": "Chúng tôi sẽ nhắc bạn 1 ngày trước hạn giao",
+  "ordersDetailRemindOff": "Đã tắt nhắc nhở",
+  "ordersDetailThanksTitle": "Cảm ơn bạn đã đặt hàng!",
+  "ordersDetailThanksMessage": "Người bán sẽ bắt tay vào làm ngay.",
+  "ordersDetailWaitingRequirements": "Đang chờ khách gửi yêu cầu",
+  "ordersDetailSubmitRequirements": "Gửi yêu cầu để bắt đầu đơn hàng",
+  "ordersDetailWaitingRequirementsMessage": "Đơn hàng sẽ bắt đầu khi khách gửi đầy đủ thông tin bạn yêu cầu.",
+  "ordersDetailSubmitRequirementsMessage": "Người bán cần thông tin từ bạn. Thời gian giao chỉ bắt đầu tính sau khi bạn gửi yêu cầu.",
+  "ordersDetailLetterToBuyer": "Thư gửi khách",
+  "ordersDetailExtend": "Gia hạn",
+  "ordersDetailExtrasTitle": "Thêm dịch vụ cho đơn hàng",
+  "ordersDetailHide": "Ẩn",
+  "ordersDetailAddMore": "+ Thêm nữa",
+  "ordersDetailAdd": "+ Thêm",
+  "ordersDetailCancelRequestTitle": "Yêu cầu huỷ đơn hàng",
+  "ordersDetailExtensionRequestTitle": "Yêu cầu gia hạn",
+  "ordersDetailCancelRequestedByYou": "Bạn đã yêu cầu huỷ đơn hàng này.",
+  "ordersDetailCancelRequestedBy": "{name} đã yêu cầu huỷ đơn hàng này.",
+  "@ordersDetailCancelRequestedBy": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailExtensionRequestedByYou": "Bạn đã yêu cầu gia hạn ngày giao thêm {days} ngày.",
+  "@ordersDetailExtensionRequestedByYou": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersDetailExtensionRequestedBy": "{name} đã yêu cầu gia hạn ngày giao thêm {days} ngày.",
+  "@ordersDetailExtensionRequestedBy": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersDetailExtensionLength": "Thời lượng gia hạn",
+  "ordersDetailNewDueDate": "Ngày giao mới",
+  "ordersDetailAwaitingResponse": "Đang chờ phản hồi từ {name} (tới {date})",
+  "@ordersDetailAwaitingResponse": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailRespondBefore": "Bạn cần phản hồi trước {date}, nếu không yêu cầu sẽ tự động được chấp nhận.",
+  "@ordersDetailRespondBefore": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailAccept": "Chấp nhận",
+  "ordersDetailDecline": "Từ chối",
+  "ordersDetailYouDelivered": "Bạn đã giao đơn hàng",
+  "ordersDetailYourDelivery": "Đây là bản giao của bạn",
+  "ordersDetailFileCount": "{n} tệp",
+  "@ordersDetailFileCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersDetailDownloadingAll": "Đang tải {n} tệp về máy…",
+  "@ordersDetailDownloadingAll": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersDetailDownloadAll": "Tải tất cả",
+  "ordersDetailVirusScanned": "Đã quét virus",
+  "ordersDetailDownloadingFile": "Đang tải \"{name}\"…",
+  "@ordersDetailDownloadingFile": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailAwaitingBuyerReview": "Đang chờ khách duyệt bản giao.",
+  "ordersDetailBuyerReviewUntil": "Khách có tới {date} để duyệt. Sau thời điểm này đơn sẽ tự động hoàn thành.",
+  "@ordersDetailBuyerReviewUntil": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailApproveDelivery": "Duyệt bản giao",
+  "ordersDetailNotReady": "Chưa sẵn sàng",
+  "ordersDetailReviewHint": "Hãy duyệt bản giao, yêu cầu chỉnh sửa hoặc xin thêm thời gian để xem.",
+  "ordersDetailReviewUntil": "Bạn có tới {date} để duyệt bản giao, yêu cầu chỉnh sửa hoặc thêm thời gian xem. Sau thời điểm này, đơn hàng sẽ được tự động đánh dấu hoàn thành.",
+  "@ordersDetailReviewUntil": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailCompletedTitle": "Đơn hàng đã hoàn thành",
+  "ordersDetailCompletedMessage": "Cảm ơn bạn đã sử dụng VietGig.",
+  "ordersDetailBuyerReview": "Đánh giá của khách",
+  "ordersDetailMyReview": "Đánh giá của tôi",
+  "ordersDetailNoBuyerReview": "Khách chưa để lại đánh giá.",
+  "ordersDetailShareExperience": "Chia sẻ trải nghiệm của bạn để giúp người mua khác lựa chọn.",
+  "ordersDetailWriteReview": "Viết đánh giá",
+  "ordersDetailTipped": "Bạn đã tip {amount} cho {name}. Cảm ơn bạn!",
+  "@ordersDetailTipped": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailTipTitle": "Người bán xuất sắc xứng đáng được tip",
+  "ordersDetailTipMessage": "Tip được chuyển 100% cho người bán.",
+  "ordersDetailSendTip": "Gửi tip",
+  "ordersDetailCancelledTitle": "Đơn hàng đã bị huỷ",
+  "ordersDetailCancelledMessage": "Số tiền đã được hoàn vào số dư VietGig của bạn.",
+  "ordersDetailExpectedDelivery": "Ngày giao dự kiến",
+  "ordersDetailRemindOffAction": "Tắt nhắc",
+  "ordersDetailRemindMe": "Nhắc tôi",
+  "ordersDetailAddedToCalendar": "Đã thêm hạn giao {date} vào lịch",
+  "@ordersDetailAddedToCalendar": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDetailAddToCalendar": "Thêm vào lịch",
+  "ordersDetailActivity": "Hoạt động",
+  "ordersCheckoutTitle": "Nâng cấp",
+  "ordersCheckoutGigNotFoundTitle": "Không tìm thấy dịch vụ",
+  "ordersCheckoutGigNotFoundMessage": "Dịch vụ này có thể đã ngừng bán.",
+  "ordersCheckoutExploreOther": "Khám phá dịch vụ khác",
+  "ordersCheckoutSelectedPackage": "Gói đã chọn",
+  "ordersCheckoutDeliveryIn": "Giao trong {days} ngày",
+  "@ordersCheckoutDeliveryIn": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersCheckoutRevisions": "{revisions} lượt chỉnh sửa",
+  "@ordersCheckoutRevisions": {
+    "placeholders": {
+      "revisions": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersCheckoutAddExtras": "Thêm dịch vụ cho đơn hàng",
+  "ordersCheckoutNoExtras": "Dịch vụ này không có tuỳ chọn bổ sung.",
+  "ordersCheckoutEstimatedDelivery": "Thời gian giao dự kiến: {days} ngày",
+  "@ordersCheckoutEstimatedDelivery": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersCheckoutContinue": "Tiếp tục ({amount})",
+  "@ordersCheckoutContinue": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersCheckoutNoExtraTime": "Không thêm thời gian",
+  "ordersCheckoutExtraDays": "+{days} ngày",
+  "@ordersCheckoutExtraDays": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersCheckoutFasterDays": "Giao nhanh hơn {days} ngày",
+  "@ordersCheckoutFasterDays": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersCheckoutQuantity": "Số lượng",
+  "ordersAddCardTitle": "Thêm thẻ mới",
+  "ordersAddCardInvalidNumber": "Số thẻ không hợp lệ",
+  "ordersAddCardInvalidMonth": "Tháng không hợp lệ",
+  "ordersAddCardExpired": "Thẻ đã hết hạn",
+  "ordersAddCardHolderPlaceholder": "HỌ TÊN CHỦ THẺ",
+  "ordersAddCardNumber": "Số thẻ",
+  "ordersAddCardNumberRequired": "Vui lòng nhập số thẻ hợp lệ",
+  "ordersAddCardLastName": "Họ",
+  "ordersAddCardFirstName": "Tên",
+  "ordersAddCardRequired": "Bắt buộc",
+  "ordersAddCardCvvHelp": "3–4 chữ số ở mặt sau thẻ",
+  "ordersAddCardSecure": "Thông tin thẻ được mã hoá và lưu trữ an toàn.",
+  "ordersAddCardPay": "Thanh toán",
+  "ordersReviewTitle": "Xem lại đơn hàng",
+  "ordersReviewMethodCard": "Thẻ tín dụng/ghi nợ",
+  "ordersReviewMethodBank": "Chuyển khoản ngân hàng",
+  "ordersReviewPromoTitle": "Mã khuyến mãi",
+  "ordersReviewPromoHint": "Nhập mã, VD: VIETGIG10",
+  "ordersReviewPromoEmpty": "Vui lòng nhập mã",
+  "ordersReviewPromoInvalid": "Mã không hợp lệ hoặc đã hết hạn",
+  "ordersReviewPromoApplied": "Đã áp dụng mã {code} – giảm 10%",
+  "@ordersReviewPromoApplied": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersReviewCardAdded": "Đã thêm thẻ thanh toán",
+  "ordersReviewPayFailed": "Thanh toán thất bại: {error}",
+  "@ordersReviewPayFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersReviewSuccessTitle": "Tuyệt vời! Đơn hàng đã được tạo",
+  "ordersReviewSuccessNeedRequirements": "Hãy gửi yêu cầu để người bán bắt đầu thực hiện đơn hàng của bạn.",
+  "ordersReviewSuccessStarted": "Người bán sẽ bắt đầu thực hiện ngay. Chúc mừng bước đầu tiên của bạn!",
+  "ordersReviewViewOrder": "Xem đơn hàng",
+  "ordersReviewCustomOffer": "Báo giá riêng",
+  "ordersReviewPaymentMethod": "Phương thức thanh toán",
+  "ordersReviewCardSaved": "Thẻ đã lưu – sẵn sàng thanh toán",
+  "ordersReviewOrderDetails": "Chi tiết đơn hàng",
+  "ordersReviewExtras": "Dịch vụ thêm",
+  "ordersReviewSummary": "Tóm tắt",
+  "ordersReviewFeeTooltip": "Phí giúp VietGig vận hành nền tảng và hỗ trợ khách hàng 24/7.",
+  "ordersReviewEnterCode": "Nhập mã",
+  "ordersReviewTotal": "Tổng",
+  "ordersReviewEstimatedDelivery": "Ngày giao dự kiến",
+  "ordersReviewTerms": "Khi nhấn nút bên dưới, bạn đồng ý với Điều khoản dịch vụ và Chính sách thanh toán của VietGig. Số tiền chỉ được chuyển cho người bán khi bạn duyệt bản giao.",
+  "ordersReviewSecure": "Thông tin thanh toán của bạn được bảo mật",
+  "ordersReviewAddPayment": "Thêm phương thức thanh toán",
+  "ordersReviewPay": "Thanh toán ({amount})",
+  "@ordersReviewPay": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersReviewProcessing": "Đang xử lý đơn hàng của bạn…",
+  "ordersReviewDontClose": "Vui lòng không đóng ứng dụng.",
+  "ordersReqTitle": "Yêu cầu",
+  "ordersReqFallbackQuestion": "Hãy mô tả chi tiết yêu cầu của bạn cho đơn hàng này.",
+  "ordersReqSendFailed": "Không gửi được yêu cầu: {error}",
+  "@ordersReqSendFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersReqSent": "Đã gửi yêu cầu. Đơn hàng của bạn đã bắt đầu!",
+  "ordersReqAlreadyTitle": "Yêu cầu đã được gửi",
+  "ordersReqAlreadyMessage": "Đơn hàng này không cần thêm thông tin. Bạn có thể nhắn tin cho người bán nếu muốn bổ sung.",
+  "ordersReqBackToOrder": "Quay lại đơn hàng",
+  "ordersReqOptional": "(không bắt buộc)",
+  "ordersReqConfirm": "Tôi xác nhận thông tin cung cấp là chính xác và đầy đủ. Mọi thay đổi sau này cần người bán đồng ý và có thể phát sinh chi phí.",
+  "ordersReqSubmit": "Gửi yêu cầu",
+  "ordersReqHint": "Vui lòng điền thông tin cần thiết",
+  "ordersReqAttachMore": "Đính kèm tệp khác",
+  "ordersDeliverTitle": "Giao hàng",
+  "ordersDeliverNoQuickResponses": "Bạn chưa có mẫu trả lời nhanh nào",
+  "ordersDeliverQuickResponses": "Trả lời nhanh",
+  "ordersDeliverSendError": "Không gửi được bản giao: {error}",
+  "@ordersDeliverSendError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDeliverSent": "Đã gửi bản giao cho khách. Khách có 3 ngày để duyệt.",
+  "ordersDeliverSellerOnly": "Chỉ người bán mới có thể giao đơn hàng",
+  "ordersDeliverUnavailable": "Không thể giao đơn hàng lúc này",
+  "ordersDeliverCurrentStatus": "Trạng thái hiện tại: {status}.",
+  "@ordersDeliverCurrentStatus": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDeliverBackToOrder": "Quay lại đơn hàng",
+  "ordersDeliverMessageTo": "Lời nhắn gửi {name}",
+  "@ordersDeliverMessageTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersDeliverInsertQuick": "Chèn mẫu trả lời nhanh",
+  "ordersDeliverMessageHint": "Mô tả những gì bạn giao, hướng dẫn sử dụng tệp và lời cảm ơn tới khách (ít nhất 10 ký tự).",
+  "ordersDeliverAttachments": "Tệp đính kèm",
+  "ordersDeliverAttachMore": "Đính kèm thêm tệp",
+  "ordersDeliverFileNote": "Tối đa 5 GB mỗi tệp. Khách sẽ nhận được thông báo ngay khi bạn gửi bản giao.",
+  "ordersDeliverUploading": "Đang tải tệp lên…",
+  "ordersDeliverSubmit": "Gửi bản giao",
+  "ordersResolutionError": "Có lỗi xảy ra: {error}",
+  "@ordersResolutionError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersResolutionUpdateChat": "[Yêu cầu cập nhật đơn {code}] {text}",
+  "@ordersResolutionUpdateChat": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "text": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersResolutionUpdateSent": "Đã gửi yêu cầu cập nhật tới {name}",
+  "@ordersResolutionUpdateSent": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersResolutionTitle": "Trung tâm giải quyết",
+  "ordersResolutionUpdateTitle": "Yêu cầu cập nhật",
+  "ordersResolutionExtendTitle": "Gia hạn thời gian giao",
+  "ordersResolutionCancelTitle": "Huỷ đơn hàng",
+  "ordersResolutionSupportPrompt": "Không tìm thấy điều bạn cần? ",
+  "ordersResolutionSupportLink": "Liên hệ Bộ phận hỗ trợ",
+  "ordersResolutionOrderInfo": "Thông tin đơn hàng",
+  "ordersResolutionDisputeTitle": "Đang giải quyết tranh chấp",
+  "ordersResolutionDisputeBody": "Đơn hàng này đang có một yêu cầu chờ phản hồi. Vui lòng đợi bên kia phản hồi trước khi mở yêu cầu mới. Nếu gặp vấn đề, Bộ phận hỗ trợ của VietGig luôn sẵn sàng giúp bạn.",
+  "ordersResolutionPendingCancel": "Yêu cầu huỷ đơn",
+  "ordersResolutionPendingExtend": "Yêu cầu gia hạn {days} ngày",
+  "@ordersResolutionPendingExtend": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersResolutionPendingLine": "{request} · gửi lúc {time}",
+  "@ordersResolutionPendingLine": {
+    "placeholders": {
+      "request": {
+        "type": "String"
+      },
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersResolutionCompleted": "Đơn hàng đã hoàn thành",
+  "ordersResolutionCancelled": "Đơn hàng đã bị huỷ",
+  "ordersResolutionEndedBody": "Đơn hàng đã kết thúc nên không thể mở yêu cầu mới. Nếu cần hỗ trợ, hãy liên hệ với chúng tôi.",
+  "ordersResolutionWelcome": "Chào mừng!",
+  "ordersResolutionWelcomeBody": "Bạn có thể giải quyết vấn đề với đơn hàng tại đây.",
+  "ordersResolutionHowHelp": "Chúng tôi giúp gì được cho bạn?",
+  "ordersResolutionMenuUpdate": "Yêu cầu cập nhật tiến độ",
+  "ordersResolutionMenuMessageBuyer": "Nhắn tin cho khách",
+  "ordersResolutionUpdateHeading": "Gửi lời nhắn tới người bán",
+  "ordersResolutionUpdateBody": "Hỏi {name} về tiến độ đơn hàng. Tin nhắn sẽ được gửi vào hộp thư của bạn.",
+  "@ordersResolutionUpdateBody": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersResolutionUpdateHint": "VD: Chào bạn, mình muốn hỏi đơn hàng đang tiến triển thế nào rồi?",
+  "ordersResolutionSendRequest": "Gửi yêu cầu",
+  "ordersResolutionExtendHeading": "Bạn cần thêm bao nhiêu ngày?",
+  "ordersResolutionExtendDays": "Số ngày gia hạn",
+  "ordersResolutionCurrentDue": "Ngày giao hiện tại",
+  "ordersResolutionNewDue": "Dự kiến giao ngày",
+  "ordersResolutionMessage": "Lời nhắn",
+  "ordersResolutionExtendHintSeller": "VD: Mình cần thêm thời gian để hoàn thiện chi tiết cho bạn. Mong bạn thông cảm!",
+  "ordersResolutionExtendHintBuyer": "VD: Mình cần thêm thời gian để chuẩn bị tài liệu cho bạn.",
+  "ordersResolutionExtendNoteSeller": "Khách có 2 ngày để phản hồi. Nếu không phản hồi, yêu cầu sẽ tự động được chấp nhận.",
+  "ordersResolutionExtendNoteBuyer": "Người bán có 2 ngày để phản hồi. Nếu không phản hồi, yêu cầu sẽ tự động được chấp nhận.",
+  "ordersResolutionExtendSubmit": "Gửi yêu cầu gia hạn",
+  "ordersResolutionExtendSent": "Đã gửi yêu cầu gia hạn {days} ngày",
+  "@ordersResolutionExtendSent": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersResolutionRefundNote": "Nếu người bán đồng ý, {amount} sẽ được hoàn vào số dư VietGig của bạn.",
+  "@ordersResolutionRefundNote": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersResolutionFeedbackHeading": "Phản hồi cho người bán",
+  "ordersResolutionCancelHint": "Cho người bán biết lý do bạn muốn huỷ đơn (không bắt buộc)",
+  "ordersResolutionReasonHeading": "Lý do huỷ",
+  "ordersResolutionReasonNote": "Chỉ VietGig thấy lý do này.",
+  "ordersResolutionReasonNoResponse": "Người bán không phản hồi",
+  "ordersResolutionReasonQuality": "Chất lượng kém",
+  "ordersResolutionReasonWrongItem": "Không nhận được đúng thứ đã đặt",
+  "ordersResolutionReasonTooMuchGuidance": "Người bán cần quá nhiều hướng dẫn",
+  "ordersResolutionReasonLanguage": "Rào cản ngôn ngữ",
+  "ordersResolutionReasonOther": "Khác",
+  "ordersResolutionRateSeller": "Đánh giá trải nghiệm với người bán",
+  "ordersResolutionCancelSubmit": "Gửi yêu cầu huỷ",
+  "ordersResolutionSellerRatingNote": "(Đánh giá người bán: {rating}/5)",
+  "@ordersResolutionSellerRatingNote": {
+    "placeholders": {
+      "rating": {
+        "type": "int"
+      }
+    }
+  },
+  "ordersResolutionCancelSent": "Đã gửi yêu cầu huỷ. Người bán có tối đa 2 ngày để phản hồi.",
+  "ordersRateThanksReview": "Cảm ơn bạn đã đánh giá!",
+  "ordersRateSubmitError": "Không gửi được đánh giá: {error}",
+  "@ordersRateSubmitError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRateCustomTitle": "Số tiền tuỳ chỉnh (VND)",
+  "ordersRateCustomHint": "VD: 70000",
+  "ordersRateCustomHelper": "Tối thiểu 25.000 ₫",
+  "ordersRateCustomError": "Số tiền tối thiểu là 25.000 ₫",
+  "ordersRateTipError": "Không gửi được tip: {error}",
+  "@ordersRateTipError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRateTipSent": "Đã gửi tip {amount} cho {name}. Cảm ơn bạn!",
+  "@ordersRateTipSent": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRateLater": "Để sau",
+  "ordersRateSkip": "Bỏ qua",
+  "ordersRateBuyerOnly": "Chỉ người mua mới có thể đánh giá đơn hàng này",
+  "ordersRateNotYet": "Chưa thể đánh giá",
+  "ordersRateNotYetBody": "Bạn có thể đánh giá sau khi duyệt bản giao và đơn hàng hoàn thành.",
+  "ordersRateContinue": "Tiếp tục",
+  "ordersRateStar1": "Kém",
+  "ordersRateStar2": "Tạm",
+  "ordersRateStar3": "Tốt",
+  "ordersRateStar4": "Rất tốt",
+  "ordersRateStar5": "Xuất sắc",
+  "ordersRatePositiveDetail": "Chú ý chi tiết",
+  "ordersRatePositiveCreative": "Sáng tạo",
+  "ordersRatePositiveAesthetic": "Thẩm mỹ",
+  "ordersRatePositiveProfessional": "Chuyên nghiệp",
+  "ordersRatePositiveExceeded": "Vượt kỳ vọng",
+  "ordersRatePositiveOnBrand": "Đúng thương hiệu",
+  "ordersRateNegativeLate": "Chậm tiến độ",
+  "ordersRateNegativeDetail": "Thiếu chi tiết",
+  "ordersRateNegativeOffBrief": "Không đúng yêu cầu",
+  "ordersRateNegativeCommunication": "Giao tiếp chưa tốt",
+  "ordersRateNegativeQuality": "Chất lượng chưa đạt",
+  "ordersRateNegativeRevisions": "Cần nhiều chỉnh sửa",
+  "ordersRateQualityTitle": "Bạn đánh giá chất lượng bản giao thế nào?",
+  "ordersRateGoodTitle": "Thật tuyệt! Điều gì khiến nó xuất sắc?",
+  "ordersRateBadTitle": "Rất tiếc! Điều gì chưa ổn?",
+  "ordersRateValueTitle": "Bạn đánh giá giá trị của bản giao?",
+  "ordersRateValueBody": "Dự án mất {days} ngày với chi phí {amount}.",
+  "@ordersRateValueBody": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRateTopicsDefault": "chất lượng, giao tiếp và thời gian phản hồi",
+  "ordersRateWriteTitle": "Viết đánh giá công khai",
+  "ordersRateWriteBody": "Chia sẻ chi tiết về trải nghiệm làm việc với người bán và kết quả cuối cùng, cùng các chủ đề như: {topics}.",
+  "@ordersRateWriteBody": {
+    "placeholders": {
+      "topics": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRateTextHint": "Viết ít nhất 10 ký tự. Hãy cho người mua khác biết cảm nhận trung thực của bạn.",
+  "ordersRateShareTitle": "Chia sẻ mẫu công việc công khai",
+  "ordersRateShareBody": "Mẫu công việc có thể hiển thị cùng đánh giá trên trang người bán. Tôi xác nhận mẫu không chứa thông tin cá nhân hay nhạy cảm.",
+  "ordersRateSubmit": "Gửi đánh giá",
+  "ordersRatePublicNote": "Giá đơn hàng và thông tin hồ sơ của bạn sẽ hiển thị công khai cùng đánh giá.",
+  "ordersRateThanks": "Cảm ơn bạn!",
+  "ordersRateTipped": "Bạn đã gửi tip {amount} cho {name}.",
+  "@ordersRateTipped": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRateTipPrompt": "Bạn có thể gửi tip để cảm ơn {name}. Tip được chuyển 100% cho người bán.",
+  "@ordersRateTipPrompt": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRateCustom": "Tuỳ chỉnh",
+  "ordersRateSendTip": "Gửi tip",
+  "ordersRateSendTipAmount": "Gửi tip {amount}",
+  "@ordersRateSendTipAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "ordersRateNoFee": "Bạn sẽ không bị tính phí dịch vụ cho tiền tip."
+}

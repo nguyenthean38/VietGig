@@ -1,0 +1,357 @@
+{
+  "@@locale": "vi",
+  "sellerEarnings": "Thu nhập",
+  "sellerAvailable": "Có thể rút",
+  "sellerActiveOrders": "Đơn đang chạy",
+  "sellerPaymentsClearing": "Thanh toán đang xử lý",
+  "sellerSuccessScore": "Điểm thành công",
+  "sellerRating": "Đánh giá",
+  "sellerResponseRate": "Tỉ lệ phản hồi",
+  "sellerOrders": "Đơn hàng",
+  "sellerClients": "Khách hàng",
+  "sellerGotIt": "Đã hiểu",
+  "sellerOptions": "Tuỳ chọn",
+  "sellerChartDateFormat": "dd/MM",
+  "sellerMonthFormat": "M",
+  "sellerDashLoadError": "Không tải được bảng điều khiển",
+  "sellerDashGreeting": "Chào {name},",
+  "@sellerDashGreeting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerDashGreetingFallback": "bạn",
+  "sellerDashWelcomeBack": "Chào mừng trở lại",
+  "sellerDashSetupTitle": "Hoàn thiện hồ sơ người bán",
+  "sellerDashSetupBody": "Tạo dịch vụ đầu tiên và hoàn thiện hồ sơ để bắt đầu nhận đơn từ khách hàng.",
+  "sellerDashSetupLink": "Xem dịch vụ của tôi →",
+  "sellerDashTodoTitle": "Việc cần làm",
+  "sellerDashUnreadMessages": "{n} tin nhắn chưa đọc",
+  "@sellerDashUnreadMessages": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "sellerDashUnreadNone": "Thời gian phản hồi của bạn đang tốt. Hãy tiếp tục phát huy!",
+  "sellerDashUnreadSome": "Trả lời sớm để giữ tỉ lệ phản hồi cao.",
+  "sellerDashOrdersToDeliver": "{n} đơn hàng cần giao",
+  "@sellerDashOrdersToDeliver": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "sellerDashOrdersNone": "Bạn không có đơn nào sắp đến hạn giao.",
+  "sellerDashOrdersSome": "Giao đúng hạn để giữ điểm thành công cao.",
+  "sellerDashMyGigs": "Dịch vụ của tôi",
+  "sellerDashManage": "Quản lý",
+  "sellerDashStats": "Thống kê",
+  "sellerDashLast7Days": "7 ngày qua",
+  "sellerDashImpressions": "Lượt hiển thị",
+  "sellerDashClicks": "Lượt nhấp",
+  "sellerDashConversion": "Chuyển đổi",
+  "sellerDashBriefsTitle": "Brief mới",
+  "sellerDashLearnMore": "Tìm hiểu thêm",
+  "sellerDashBriefsEmpty": "Chưa có brief mới",
+  "sellerDashBriefsCount": "{n} brief phù hợp với bạn",
+  "@sellerDashBriefsCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "sellerDashBriefsDesc": "Khám phá dự án tiềm năng từ khách hàng – brief phù hợp với kỹ năng của bạn sẽ được gửi đến đây.",
+  "sellerDashViewDetails": "Xem chi tiết",
+  "sellerDashEarningsThisMonth": "Thu nhập tháng này",
+  "sellerDashAvgPrice": "Giá bán TB",
+  "sellerDashCancelledOrders": "Đơn đã huỷ",
+  "sellerDashActiveOrdersTitle": "Đơn hàng đang thực hiện",
+  "sellerDashNoActiveOrders": "Chưa có đơn hàng nào đang thực hiện.",
+  "sellerDashMyLevel": "Cấp độ của tôi",
+  "sellerDashDue": "Hạn {date}",
+  "@sellerDashDue": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerLevelTitle": "Tổng quan cấp độ",
+  "sellerLevelSystem": "Hệ thống cấp độ",
+  "sellerLevelSystemDesc": "Cấp độ được đánh giá lại hằng tháng dựa trên hiệu suất 60 ngày gần nhất của bạn.",
+  "sellerLevelColumn": "Cấp độ",
+  "sellerLevelTopRatedNote": "Để đạt Top Rated, hồ sơ của bạn cần được đội ngũ VietGig xét duyệt thêm.",
+  "sellerLevelTopReached": "Bạn đã đạt cấp cao nhất!",
+  "sellerLevelNext": "Cấp tiếp theo: {level}",
+  "@sellerLevelNext": {
+    "placeholders": {
+      "level": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerLevelPerformance": "Chỉ số hiệu suất",
+  "sellerLevelBasedOn": "Dựa trên hoạt động 60 ngày gần nhất.",
+  "sellerLevelSuccessInfo": "Điểm từ 1–10 phản ánh mức độ hài lòng của khách hàng, dựa trên đánh giá riêng tư, tỉ lệ huỷ đơn và giao đúng hạn.",
+  "sellerLevelRatingInfo": "Điểm đánh giá trung bình người mua dành cho bạn.",
+  "sellerLevelResponseInfo": "Tỉ lệ tin nhắn mới bạn trả lời trong vòng 24 giờ.",
+  "sellerLevelOrdersInfo": "Số đơn hàng đã hoàn thành.",
+  "sellerLevelUniqueClients": "Khách hàng duy nhất",
+  "sellerLevelUniqueClientsInfo": "Số người mua khác nhau đã hoàn thành đơn với bạn.",
+  "sellerLevelEarningsInfo": "Tổng thu nhập từ các đơn đã hoàn thành.",
+  "sellerLevelReachNext": "Đạt cấp tiếp theo",
+  "sellerLevelProgressNext": "Tiến độ tới cấp tiếp theo",
+  "sellerLevelTarget": "Mục tiêu {level}",
+  "@sellerLevelTarget": {
+    "placeholders": {
+      "level": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerLevelExplain": "Giải thích",
+  "sellerRangeLast30": "30 ngày qua",
+  "sellerRangeLast3Months": "3 tháng qua",
+  "sellerRangeThisYear": "Năm nay",
+  "sellerRangeLastYear": "Năm ngoái",
+  "sellerEarningsPickRange": "Chọn khoảng thời gian",
+  "sellerEarningsWithdrawTo": "Rút {amount} về",
+  "@sellerEarningsWithdrawTo": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerEarningsBank": "Tài khoản ngân hàng",
+  "sellerEarningsBankSubtitle": "Vietcombank •••• 6789 · 1–3 ngày làm việc",
+  "sellerEarningsMomo": "Ví MoMo",
+  "sellerEarningsMomoSubtitle": "090 •••• 123 · Nhận ngay",
+  "sellerEarningsSentBank": "Đã gửi yêu cầu rút {amount} về tài khoản ngân hàng",
+  "@sellerEarningsSentBank": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerEarningsSentMomo": "Đã gửi yêu cầu rút {amount} về ví MoMo",
+  "@sellerEarningsSentMomo": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerEarningsWithdraw": "Rút tiền",
+  "sellerEarningsNothing": "Bạn chưa có khoản nào có thể rút.",
+  "sellerEarningsOverview": "Tổng quan",
+  "sellerEarningsCompleted": "Đơn hoàn thành",
+  "sellerEarningsTotal": "Tổng thu nhập: {amount}",
+  "@sellerEarningsTotal": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerEarningsTotalOrders": "Tổng đơn hoàn thành: {n}",
+  "@sellerEarningsTotalOrders": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "sellerEarningsAnalytics": "Phân tích",
+  "sellerEarningsMonth": "Thu nhập tháng {month}",
+  "@sellerEarningsMonth": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerEarningsAvgPrice": "Giá bán trung bình",
+  "sellerEarningsRevenue": "Doanh thu",
+  "sellerEarningsClearingInfo": "Khoản thanh toán từ đơn hoàn thành sẽ được giữ 14 ngày trước khi chuyển sang số dư có thể rút. Điều này giúp bảo vệ cả bạn và người mua khi có tranh chấp.",
+  "sellerEarningsToDate": "Thu nhập đến nay",
+  "sellerEarningsToDateInfo": "Tổng thu nhập bạn đã kiếm được trên VietGig kể từ khi bắt đầu bán, sau khi trừ phí dịch vụ.",
+  "sellerEarningsExpenses": "Chi phí đến nay",
+  "sellerEarningsExpensesInfo": "Tổng số tiền bạn đã dùng thu nhập để thanh toán trên VietGig, ví dụ mua dịch vụ hoặc quảng bá dịch vụ của mình.",
+  "sellerEarningsWithdrawn": "Đã rút đến nay",
+  "sellerEarningsWithdrawnInfo": "Tổng số tiền bạn đã rút từ VietGig về tài khoản ngân hàng hoặc ví điện tử.",
+  "sellerAvailTitle": "Lịch làm việc",
+  "sellerAvailReasonVacation": "Đi nghỉ",
+  "sellerAvailReasonOverloaded": "Quá tải công việc",
+  "sellerAvailReasonOther": "Khác",
+  "sellerAvailConfirmed": "Đã xác nhận ngày bận của bạn",
+  "sellerAvailChangesSaved": "Đã lưu thay đổi lịch bận",
+  "sellerAvailDeleted": "Đã xoá lịch bận",
+  "sellerAvailDesc": "Khi bận, dịch vụ của bạn bị ẩn và bạn không nhận đơn/tin nhắn mới. Tỉ lệ phản hồi của bạn sẽ không bị ảnh hưởng trong thời gian này.",
+  "sellerAvailSet": "Đặt ngày bận",
+  "sellerAvailUpcoming": "Ngày bận sắp tới",
+  "sellerAvailEdit": "Sửa",
+  "sellerAvailReasonLine": "Lý do: {reason}",
+  "@sellerAvailReasonLine": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerAvailReasonLineContact": "Lý do: {reason} · Người mua vẫn có thể liên hệ",
+  "@sellerAvailReasonLineContact": {
+    "placeholders": {
+      "reason": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerAvailPickFirst": "Chọn ngày đầu",
+  "sellerAvailPickLast": "Chọn ngày cuối",
+  "sellerAvailPick": "Chọn",
+  "sellerAvailSaveError": "Không lưu được: {error}",
+  "@sellerAvailSaveError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerAvailDeleteTitle": "Xoá lịch bận đã đặt?",
+  "sellerAvailDeleteMessage": "Thao tác này sẽ xoá các ngày bận hiện tại của bạn.",
+  "sellerAvailEditTitle": "Sửa ngày bận",
+  "sellerAvailFirstDay": "Ngày đầu",
+  "sellerAvailLastDay": "Ngày cuối",
+  "sellerAvailInvalidRange": "Ngày cuối phải sau hoặc trùng ngày đầu.",
+  "sellerAvailReason": "Lý do",
+  "sellerAvailNoteLabel": "Ghi chú (tuỳ chọn)",
+  "sellerAvailNoteHint": "Tôi đang bận, nhưng sẽ sớm quay lại.",
+  "sellerAvailNoteHelp": "Ghi chú này sẽ hiển thị trong thông báo trên trang dịch vụ và hồ sơ của bạn.",
+  "sellerAvailAllowContact": "Mọi người mua có thể liên hệ tôi",
+  "sellerAvailAllowContactOn": "Lưu ý: thời gian phản hồi các tin nhắn này vẫn tính vào tỉ lệ phản hồi. Chỉ bật nếu bạn có thể trả lời.",
+  "sellerAvailAllowContactOff": "Khi bận, người mua không thể đặt đơn hay liên hệ bạn, nhưng bạn vẫn có thể nhắn tin với người mua có đơn đang thực hiện.",
+  "sellerAvailSaveChanges": "Lưu thay đổi",
+  "sellerAvailConfirm": "Xác nhận ngày",
+  "sellerAvailDelete": "Xoá lịch bận",
+  "sellerBriefsTitle": "Brief",
+  "sellerBriefsPrefs": "Tuỳ chọn brief",
+  "sellerBriefsPrefsUpdated": "Đã cập nhật tuỳ chọn brief",
+  "sellerBriefsResponded": "Đã gửi phản hồi cho brief “{title}”",
+  "@sellerBriefsResponded": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerBriefsWhat": "Brief là gì?",
+  "sellerBriefsWhatBody": "Brief là mô tả dự án do người mua đăng lên. VietGig sẽ gửi đến bạn những brief phù hợp với dịch vụ và kỹ năng của bạn để bạn gửi báo giá.",
+  "sellerBriefsTabMatches": "Phù hợp với bạn",
+  "sellerBriefsTabSent": "Phản hồi đã gửi",
+  "sellerBriefsOffTitle": "Bạn đang tắt nhận brief",
+  "sellerBriefsOffMessage": "Bật lại \"Nhận brief mới\" trong tuỳ chọn để không bỏ lỡ dự án phù hợp.",
+  "sellerBriefsOffAction": "Mở tuỳ chọn brief",
+  "sellerBriefsEmptyTitle": "Chưa có brief phù hợp…",
+  "sellerBriefsEmptyMessage": "Chúng tôi sẽ báo cho bạn ngay khi có brief phù hợp với kỹ năng của bạn.",
+  "sellerBriefsSentEmptyTitle": "Có lẽ đã đến lúc cho một dự án mới",
+  "sellerBriefsSentEmptyMessage": "Phản hồi brief trong tab \"Phù hợp với bạn\" và quản lý các phản hồi đã gửi tại đây.",
+  "sellerBriefsIntroTitle": "Tab phù hợp của bạn",
+  "sellerBriefsNewBadge": "MỚI",
+  "sellerBriefsIntroBody": "Tất cả brief mới dành cho bạn sẽ hiển thị ở tab này – bạn có thể là người đầu tiên gửi báo giá.",
+  "sellerBriefsNext": "Tiếp",
+  "sellerBriefsBuyer": "Người mua",
+  "sellerBriefsBudget": "Ngân sách {budget} · {days}",
+  "@sellerBriefsBudget": {
+    "placeholders": {
+      "budget": {
+        "type": "String"
+      },
+      "days": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerBriefsSent": "Đã gửi",
+  "sellerBriefsSendOffer": "Gửi báo giá",
+  "sellerBriefsReceiveTitle": "Nhận brief",
+  "sellerBriefsReceiveDesc": "Chọn có muốn nhận brief hay không. Bạn có thể bật lại bất cứ lúc nào.",
+  "sellerBriefsReceiveNew": "Nhận brief mới",
+  "sellerBriefsPriceTitle": "Giá brief",
+  "sellerBriefsPriceDesc": "Đặt mức giá tối thiểu cho các brief bạn muốn nhận. Có thể thay đổi bất cứ lúc nào.",
+  "sellerBriefsMinPrice": "Giá tối thiểu (tuỳ chọn)",
+  "sellerBriefsPriceHint": "Nhập giá",
+  "sellerGigsShare": "Chia sẻ dịch vụ",
+  "sellerGigsShareTitle": "Chia sẻ dịch vụ của bạn",
+  "sellerGigsShareDesc": "Chia sẻ liên kết dịch vụ lên mạng xã hội để tiếp cận thêm nhiều người mua.",
+  "sellerGigsLinkCopied": "Đã sao chép liên kết dịch vụ",
+  "sellerGigsSampleNote": "Dịch vụ mẫu – bạn chưa có dịch vụ nào. Dưới đây là ví dụ để bạn tham khảo.",
+  "sellerGigsEmptyTitle": "Chưa có dịch vụ",
+  "sellerGigsEmptyMessage": "Tạo dịch vụ đầu tiên để bắt đầu nhận đơn.",
+  "sellerGigsResumed": "Dịch vụ đã hoạt động trở lại",
+  "sellerGigsPausedSnack": "Đã tạm dừng dịch vụ",
+  "sellerGigsBoost": "Tăng lượt truy cập",
+  "sellerGigsNoReviews": "Chưa có đánh giá",
+  "sellerGigsActive": "Đang hoạt động",
+  "sellerGigsPaused": "Tạm dừng",
+  "sellerGigsSample": "Dịch vụ mẫu",
+  "sellerGigsPromoTitle": "Quảng bá trên mạng xã hội",
+  "sellerGigsPromoBody": "Tạo video ngắn giới thiệu dịch vụ và chia sẻ lên Facebook, TikTok, Zalo để thu hút thêm người mua. Tính năng tạo video sẽ sớm ra mắt trên VietGig.",
+  "sellerGigsPromoBanner": "Quảng bá dịch vụ",
+  "sellerGigsFeatured": "Nổi bật",
+  "sellerGigsPromoHeadline": "Muốn có thêm người mua từ mạng xã hội? Tạo video quảng bá dịch vụ chỉ trong vài phút.",
+  "sellerTplTitle": "Mẫu báo giá",
+  "sellerTplSaved": "Đã lưu mẫu “{name}”",
+  "@sellerTplSaved": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerTplDeleted": "Đã xoá mẫu “{name}”",
+  "@sellerTplDeleted": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerTplCreate": "Tạo mẫu",
+  "sellerTplEmptyTitle": "Tạo mẫu cho báo giá riêng",
+  "sellerTplEmptyMessage": "Lưu báo giá làm mẫu để dùng lại cho những lần sau.",
+  "sellerTplSwipeHint": "Vuốt sang trái để xoá mẫu.",
+  "sellerTplSubtitle": "Thanh toán một lần | Giao trong {days}",
+  "@sellerTplSubtitle": {
+    "placeholders": {
+      "days": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerTplSheetTitle": "Tạo mẫu báo giá",
+  "sellerTplName": "Tên mẫu",
+  "sellerTplNameHint": "VD: Gói thiết kế cao cấp",
+  "sellerTplNameRequired": "Vui lòng nhập tên mẫu",
+  "sellerTplPrice": "Giá",
+  "sellerTplPriceRequired": "Vui lòng nhập giá",
+  "sellerTplPriceMin": "Giá tối thiểu là {amount}",
+  "@sellerTplPriceMin": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "sellerTplDays": "Số ngày giao",
+  "sellerTplDaysSuffix": "ngày",
+  "sellerTplDaysInvalid": "Số ngày từ 1 đến 90",
+  "sellerTplSave": "Lưu mẫu"
+}

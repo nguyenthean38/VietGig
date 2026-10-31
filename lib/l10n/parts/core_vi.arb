@@ -1,0 +1,146 @@
+{
+  "commonSeeAll": "Xem tất cả",
+  "commonCancel": "Huỷ",
+  "commonOk": "OK",
+  "commonAgree": "Đồng ý",
+  "commonUndo": "Hoàn tác",
+  "commonBack": "Quay lại",
+  "commonClose": "Đóng",
+  "commonSave": "Lưu",
+  "commonSaved": "Đã lưu",
+  "commonDone": "Xong",
+  "commonDelete": "Xoá",
+  "commonCreate": "Tạo",
+  "commonOr": "Hoặc",
+  "commonSignIn": "Đăng nhập",
+  "commonMessage": "Nhắn tin",
+  "commonErrorTitle": "Đã có lỗi xảy ra",
+  "commonRetry": "Thử lại",
+  "commonFrom": "Từ",
+  "commonUnderConstruction": "Đang xây dựng",
+  "timeDays": "Ngày",
+  "timeHours": "Giờ",
+  "timeMinutes": "Phút",
+  "timeJustNow": "Vừa xong",
+  "timeYesterday": "Hôm qua",
+  "timeMinutesAgo": "{n} phút trước",
+  "@timeMinutesAgo": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "timeHoursAgo": "{n} giờ trước",
+  "@timeHoursAgo": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "timeDaysAgo": "{n} ngày trước",
+  "@timeDaysAgo": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "timeMonthsAgo": "{n} tháng trước",
+  "@timeMonthsAgo": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "timeYearsAgo": "{n} năm trước",
+  "@timeYearsAgo": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "timeNDays": "{n} ngày",
+  "@timeNDays": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "weekday1": "Thứ Hai",
+  "weekday2": "Thứ Ba",
+  "weekday3": "Thứ Tư",
+  "weekday4": "Thứ Năm",
+  "weekday5": "Thứ Sáu",
+  "weekday6": "Thứ Bảy",
+  "weekday7": "Chủ Nhật",
+  "navHome": "Trang chủ",
+  "navInbox": "Hộp thư",
+  "navSearch": "Tìm kiếm",
+  "navOrders": "Đơn hàng",
+  "navAccount": "Tài khoản",
+  "badgeChoice": "VIETGIG CHỌN",
+  "orderStatusAwaitingRequirements": "CHỜ YÊU CẦU",
+  "orderStatusInProgress": "ĐANG THỰC HIỆN",
+  "orderStatusDelivered": "ĐÃ GIAO",
+  "orderStatusRevisionRequested": "YÊU CẦU SỬA",
+  "orderStatusCompleted": "HOÀN THÀNH",
+  "orderStatusCancelled": "ĐÃ HUỶ",
+  "orderStatusDisputed": "ĐANG GIẢI QUYẾT",
+  "levelNew": "Mới",
+  "levelOne": "Cấp 1",
+  "levelTwo": "Cấp 2",
+  "levelTopRated": "Top Rated",
+  "sortRelevance": "Phù hợp nhất",
+  "sortBestSelling": "Bán chạy",
+  "sortNewest": "Mới nhất",
+  "sortPriceLow": "Giá thấp đến cao",
+  "sortPriceHigh": "Giá cao đến thấp",
+  "sortRating": "Đánh giá cao",
+  "offerStatusPending": "Đang chờ",
+  "offerStatusAccepted": "Đã chấp nhận",
+  "offerStatusDeclined": "Đã từ chối",
+  "offerStatusWithdrawn": "Đã rút lại",
+  "offerStatusExpired": "Hết hạn",
+  "revisionsUnlimited": "Không giới hạn",
+  "saveSignInTitle": "Đăng nhập để lưu",
+  "saveSignInMessage": "Bạn cần đăng nhập để lưu dịch vụ vào danh sách yêu thích.",
+  "saveSheetTitle": "Danh sách đã lưu",
+  "saveCreateNewLink": "+ Tạo danh sách mới",
+  "saveCreateNewTitle": "Tạo danh sách mới",
+  "saveListNameHint": "Tên danh sách",
+  "saveListEmpty": "Danh sách trống",
+  "saveListCount": "{gigs} dịch vụ • {sellers} người bán",
+  "@saveListCount": {
+    "placeholders": {
+      "gigs": {
+        "type": "int"
+      },
+      "sellers": {
+        "type": "int"
+      }
+    }
+  },
+  "notifKeyInbox": "Tin nhắn hộp thư",
+  "notifKeyOrderMessages": "Tin nhắn đơn hàng",
+  "notifKeyOrderUpdates": "Cập nhật đơn hàng",
+  "notifKeyRatingReminders": "Nhắc đánh giá",
+  "notifKeyBuyerBriefs": "Brief từ người mua",
+  "notifKeyMyGigs": "Dịch vụ của tôi",
+  "notifKeyMyAccount": "Tài khoản của tôi",
+  "notifKeyPromotions": "Thông báo khuyến mãi",
+  "languageVietnamese": "Tiếng Việt",
+  "languageEnglish": "English",
+  "authErrorMissingCredentials": "Vui lòng nhập email/tên đăng nhập và mật khẩu.",
+  "authErrorUserNotFound": "Không tìm thấy tài khoản này.",
+  "authErrorWrongPassword": "Mật khẩu không đúng. Vui lòng thử lại.",
+  "authErrorUsernameTaken": "Tên người dùng đã tồn tại.",
+  "authErrorEmailTaken": "Email này đã được đăng ký.",
+  "authErrorInvalidEmail": "Email không hợp lệ.",
+  "authErrorActiveOrders": "Bạn không thể xoá tài khoản khi còn đơn hàng đang thực hiện. Vui lòng liên hệ bộ phận hỗ trợ.",
+  "authErrorUnknown": "Đã có lỗi xảy ra. Vui lòng thử lại."
+}

@@ -1,0 +1,548 @@
+{
+  "inboxEdit": "Sửa",
+  "inboxFilterTitle": "Bộ lọc",
+  "inboxSelectTitle": "Chọn cuộc trò chuyện",
+  "inboxSelectedCount": "{n} đã chọn",
+  "@inboxSelectedCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxEmptyTitle": "Chưa có tin nhắn nào",
+  "inboxEmptyMessage": "Gửi tin nhắn đầu tiên cho người bán để trao đổi về dự án của bạn. Mọi cuộc trò chuyện sẽ xuất hiện tại đây.",
+  "inboxFilterEmptyTitle": "Thử điều chỉnh bộ lọc",
+  "inboxFilterEmptyMessage": "Không có kết quả cho {filter}.",
+  "@inboxFilterEmptyMessage": {
+    "placeholders": {
+      "filter": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxClearFilter": "Xoá bộ lọc",
+  "inboxArchive": "Lưu trữ",
+  "inboxUnarchive": "Bỏ lưu trữ",
+  "inboxStar": "Gắn sao",
+  "inboxUnstar": "Bỏ gắn sao",
+  "inboxUnstarShort": "Bỏ sao",
+  "inboxMore": "Thêm",
+  "inboxChangeLabels": "Đổi nhãn",
+  "inboxBlock": "Chặn",
+  "inboxUnblock": "Bỏ chặn",
+  "inboxReport": "Báo cáo",
+  "inboxMarkRead": "Đánh dấu đã đọc",
+  "inboxMarkUnread": "Đánh dấu chưa đọc",
+  "inboxMarkedRead": "Đã đánh dấu đã đọc",
+  "inboxMarkedUnread": "Đã đánh dấu chưa đọc",
+  "inboxConversationCount": "{n} cuộc trò chuyện",
+  "@inboxConversationCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxBulkArchived": "Đã lưu trữ {n} cuộc trò chuyện",
+  "@inboxBulkArchived": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxBulkUnarchived": "Đã chuyển {n} cuộc trò chuyện về Hộp thư",
+  "@inboxBulkUnarchived": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxBulkStarred": "Đã gắn sao {n} cuộc trò chuyện",
+  "@inboxBulkStarred": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxUnstarred": "Đã bỏ gắn sao",
+  "inboxLabelsUpdated": "Đã cập nhật nhãn",
+  "inboxBlockManyTitle": "Chặn {n} người dùng?",
+  "@inboxBlockManyTitle": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxBlockManyMessage": "Bạn sẽ không nhận được tin nhắn từ những người này nữa.",
+  "inboxUserBlocked": "Đã chặn người dùng",
+  "inboxUserUnblocked": "Đã bỏ chặn người dùng",
+  "inboxDeleteTitle": "Xoá cuộc trò chuyện?",
+  "inboxDeleteManyMessage": "Xoá {n} cuộc trò chuyện đã chọn? Thao tác này không thể hoàn tác.",
+  "@inboxDeleteManyMessage": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxBulkDeleted": "Đã xoá {n} cuộc trò chuyện",
+  "@inboxBulkDeleted": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxUnknownUser": "Người dùng VietGig",
+  "inboxUser": "Người dùng",
+  "inboxStartConversation": "Bắt đầu cuộc trò chuyện",
+  "inboxFilterInbox": "Hộp thư",
+  "inboxFilterAll": "Tất cả",
+  "inboxFilterUnread": "Chưa đọc",
+  "inboxFilterStarred": "Gắn sao",
+  "inboxFilterArchived": "Lưu trữ",
+  "inboxFilterSpam": "Spam",
+  "inboxFilterOffers": "Báo giá riêng",
+  "inboxLabelsHeader": "Nhãn",
+  "inboxLabelPickerTitle": "Chọn nhãn",
+  "inboxApply": "Áp dụng",
+  "inboxNewLabelHint": "Tên nhãn mới",
+  "inboxAddLabel": "Thêm nhãn mới",
+  "inboxArchivedOne": "Đã lưu trữ cuộc trò chuyện",
+  "inboxUnarchivedOne": "Đã chuyển cuộc trò chuyện về Hộp thư",
+  "inboxStarredOne": "Đã gắn sao cuộc trò chuyện",
+  "inboxBlockTitle": "Chặn người dùng này?",
+  "inboxBlockMessage": "Bạn sẽ không nhận được tin nhắn từ người này nữa. Bạn có thể bỏ chặn trong mục Spam.",
+  "inboxDeleteMessage": "Bạn có chắc muốn xoá cuộc trò chuyện này? Thao tác này không thể hoàn tác.",
+  "inboxDeletedOne": "Đã xoá cuộc trò chuyện",
+  "inboxReportTitle": "Báo cáo người dùng",
+  "inboxReportFraud": "Lừa đảo hoặc gian lận",
+  "inboxReportOffsite": "Yêu cầu thanh toán ngoài VietGig",
+  "inboxReportAbuse": "Ngôn từ xúc phạm",
+  "inboxReportSpam": "Spam",
+  "inboxReportThanks": "Cảm ơn bạn! Chúng tôi sẽ xem xét báo cáo trong 24 giờ.",
+  "inboxAutoReply": "Cảm ơn bạn! Mình sẽ phản hồi chi tiết sớm nhé.",
+  "inboxSendFailed": "Không gửi được tin nhắn. Vui lòng thử lại.",
+  "inboxYou": "Bạn",
+  "inboxPlainFile": "Tệp: {name}",
+  "@inboxPlainFile": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxPlainOffer": "Báo giá: {title} – {price}",
+  "@inboxPlainOffer": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxVideoInvite": "Lời mời gọi video",
+  "inboxVideoInviteText": "Mình mời bạn tham gia cuộc gọi video nhé",
+  "inboxAttachAlbum": "Album ảnh",
+  "inboxAttachCamera": "Máy ảnh",
+  "inboxAttachFile": "Gửi tệp",
+  "inboxAttachOffer": "Tạo báo giá",
+  "inboxAttachVideo": "Bắt đầu gọi video",
+  "inboxQuickReplies": "Trả lời nhanh",
+  "inboxQuickFallbackName": "bạn",
+  "inboxReply": "Trả lời",
+  "inboxForward": "Chuyển tiếp",
+  "inboxCopy": "Sao chép",
+  "inboxCopied": "Đã sao chép tin nhắn",
+  "inboxForwarded": "Đã chuyển tiếp tới {n} cuộc trò chuyện",
+  "@inboxForwarded": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxWithdrawOfferTitle": "Rút lại báo giá?",
+  "inboxWithdrawOfferMessage": "Khách hàng sẽ không thể chấp nhận báo giá này nữa.",
+  "inboxDeclineOfferTitle": "Từ chối báo giá?",
+  "inboxDeclineOfferMessage": "Người bán sẽ được thông báo rằng bạn đã từ chối báo giá này.",
+  "inboxWithdraw": "Rút lại",
+  "inboxDecline": "Từ chối",
+  "inboxOfferWithdrawn": "Đã rút lại báo giá",
+  "inboxOfferDeclined": "Đã từ chối báo giá",
+  "inboxSafetyTitle": "Chúng tôi luôn bảo vệ bạn",
+  "inboxCallDialogMessage": "VietGig ghi lại các cuộc gọi video để giữ an toàn cho cả hai bên và hỗ trợ giải quyết khi có tranh chấp. Vui lòng không chia sẻ thông tin thanh toán trong cuộc gọi.",
+  "inboxOpenCall": "Mở cuộc gọi",
+  "inboxCallConnecting": "Đang kết nối cuộc gọi video… (mô phỏng)",
+  "inboxCallGuidelinesTitle": "Hướng dẫn gọi video",
+  "inboxCallGuidelinesMessage": "• Chỉ trao đổi nội dung liên quan tới dự án.\n• Không chia sẻ thông tin thanh toán hoặc liên hệ ngoài VietGig.\n• Cuộc gọi được ghi lại và lưu trong 30 ngày.\n• Bạn có thể báo cáo hành vi không phù hợp sau cuộc gọi.",
+  "inboxGotIt": "Đã hiểu",
+  "inboxActiveOrdersTitle": "Đơn hàng đang thực hiện",
+  "inboxNoOrdersTitle": "Chưa có đơn hàng nào",
+  "inboxNoOrdersMessage": "Bạn chưa có đơn hàng đang thực hiện với {name}.",
+  "@inboxNoOrdersMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxThisPartner": "đối tác này",
+  "inboxOrderDue": "Hạn giao: {date} · {price}",
+  "@inboxOrderDue": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxMessagesTitle": "Tin nhắn",
+  "inboxOnline": "Online",
+  "inboxLocalTime": "Giờ địa phương {time}",
+  "@inboxLocalTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxOptionsTooltip": "Tuỳ chọn",
+  "inboxLoadFailed": "Không tải được tin nhắn",
+  "inboxNotFoundTitle": "Không tìm thấy cuộc trò chuyện",
+  "inboxNotFoundMessage": "Cuộc trò chuyện có thể đã bị xoá.",
+  "inboxScrollDown": "Cuộn xuống cuối",
+  "inboxBlockedNotice": "Bạn đã chặn người dùng này.",
+  "inboxSafetyDialogTitle": "Giữ an toàn trên VietGig",
+  "inboxSafetyDialogMessage": "Khi thanh toán và trao đổi qua VietGig, bạn được bảo vệ bởi chính sách hoàn tiền và đội ngũ hỗ trợ. Đừng bao giờ chuyển khoản trực tiếp hoặc chia sẻ thông tin đăng nhập cho người khác.",
+  "inboxStartChatHint": "Gửi tin nhắn cho {name} để bắt đầu trò chuyện.",
+  "@inboxStartChatHint": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxPartner": "đối tác",
+  "inboxTyping": "{name} đang soạn tin…",
+  "@inboxTyping": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxPartnerCap": "Đối tác",
+  "inboxAttachment": "Tệp đính kèm",
+  "inboxDownloading": "Đang tải xuống {name}…",
+  "@inboxDownloading": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxFileFallback": "tệp",
+  "inboxCallCancelled": "Đã huỷ lời mời gọi video",
+  "inboxCallDeclined": "Đã từ chối lời mời gọi video",
+  "inboxReplyingTo": "Đang trả lời {name}…",
+  "@inboxReplyingTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxAttachTooltip": "Đính kèm",
+  "inboxInputHint": "Nhập tin nhắn…",
+  "inboxSend": "Gửi",
+  "inboxToday": "Hôm nay",
+  "inboxSafetyBanner": "Vì sự an toàn của bạn, hãy giữ mọi thanh toán và trao đổi trên VietGig. ",
+  "inboxLearnMore": "Tìm hiểu thêm",
+  "inboxRelatedTo": "Tin nhắn này liên quan tới:",
+  "inboxMilestoneCount": "{n} cột mốc",
+  "@inboxMilestoneCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxDeliverIn": "Giao trong {n} ngày",
+  "@inboxDeliverIn": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxOptionsSummary": "{n} tuỳ chọn: {list}",
+  "@inboxOptionsSummary": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      },
+      "list": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxOfferPrice": "Giá báo: {price}",
+  "@inboxOfferPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxOfferExpiresAt": "Báo giá hết hạn lúc {time}",
+  "@inboxOfferExpiresAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxViewFullOffer": "Xem toàn bộ báo giá",
+  "inboxWithdrawOffer": "Rút lại báo giá",
+  "inboxVideoSent": "Bạn đã gửi lời mời gọi video",
+  "inboxVideoJoinPrompt": "Đang tham gia?",
+  "inboxVideoGuidelinesLink": "Xem hướng dẫn gọi video",
+  "inboxVideoRecorded": "Cuộc gọi video sẽ được ghi lại và lưu trữ để mọi người tham gia có thể tải về.",
+  "inboxVideoDeclinedLabel": "Đã từ chối lời mời",
+  "inboxJoin": "Tham gia",
+  "inboxCancelInvite": "Huỷ lời mời",
+  "inboxOptCustomAssets": "Tài nguyên tuỳ chỉnh",
+  "inboxOptResponsive": "Thiết kế responsive",
+  "inboxOptWireframe": "Wireframe",
+  "inboxOptPrototype": "Prototype",
+  "inboxOptSourceFiles": "File nguồn",
+  "inboxOptPages": "{n} trang/màn hình",
+  "@inboxOptPages": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxPagesLabel": "Số trang/màn hình",
+  "inboxErrGig": "Vui lòng chọn dịch vụ",
+  "inboxErrDescEmpty": "Vui lòng nhập mô tả báo giá",
+  "inboxErrDescShort": "Mô tả cần ít nhất 20 ký tự",
+  "inboxErrPriceEmpty": "Vui lòng nhập tổng giá",
+  "inboxErrMinPrice": "Giá tối thiểu {price}",
+  "@inboxErrMinPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxErrDays": "Vui lòng chọn thời gian giao",
+  "inboxErrMilestones": "Cần ít nhất 2 cột mốc",
+  "inboxErrTemplate": "Vui lòng đặt tên cho mẫu",
+  "inboxErrMsTitle": "Vui lòng nhập tên cột mốc",
+  "inboxErrMsDesc": "Vui lòng nhập mô tả",
+  "inboxLinkGigTitle": "Liên kết với dịch vụ",
+  "inboxPayTypeTitle": "Bạn muốn nhận thanh toán thế nào?",
+  "inboxPayTypeSubtitle": "Chọn hình thức phù hợp nhất với dự án.",
+  "inboxPaySingle": "Thanh toán một lần",
+  "inboxPaySingleDesc": "Nhận toàn bộ thanh toán khi hoàn thành dự án.",
+  "inboxPayMilestone": "Theo cột mốc",
+  "inboxPayMilestoneDesc": "Làm từng bước và nhận thanh toán sau mỗi cột mốc hoàn thành.",
+  "inboxDeliveryTime": "Thời gian giao",
+  "inboxRevisionsTitle": "Số lượt sửa",
+  "inboxNoRevisions": "Không sửa",
+  "inboxRevisionsCount": "{n} lượt sửa",
+  "@inboxRevisionsCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxOfferExpiry": "Thời hạn báo giá",
+  "inboxCheckOffer": "Vui lòng kiểm tra lại thông tin báo giá",
+  "inboxOfferSentTemplate": "Đã gửi báo giá và lưu mẫu “{name}”",
+  "@inboxOfferSentTemplate": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxOfferSent": "Đã gửi báo giá",
+  "inboxOfferSendFailed": "Không gửi được báo giá. Vui lòng thử lại.",
+  "inboxCreateOfferTitle": "Tạo báo giá",
+  "inboxGigsLoadFailed": "Không tải được dịch vụ",
+  "inboxLinkOfferToGig": "Liên kết báo giá với dịch vụ",
+  "inboxChange": "Đổi",
+  "inboxNoGigs": "Bạn chưa có dịch vụ nào để liên kết.",
+  "inboxOfferDescHeader": "Mô tả báo giá",
+  "inboxOfferDescHint": "VD: sản phẩm bàn giao, tiến độ, số lượng…",
+  "inboxTotalPrice": "Tổng giá",
+  "inboxPick": "Chọn",
+  "inboxRevisionsOptional": "Số lượt sửa (tuỳ chọn)",
+  "inboxMilestoneRowSummary": "{price} | {days} ngày | {revisions} lượt sửa",
+  "@inboxMilestoneRowSummary": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      },
+      "days": {
+        "type": "int"
+      },
+      "revisions": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxMaxMilestones": "Tối đa {n} cột mốc",
+  "@inboxMaxMilestones": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxAddMilestone": "Thêm cột mốc",
+  "inboxMilestoneTotal": "Tổng: {price} | {days} ngày | {revisions} lượt sửa",
+  "@inboxMilestoneTotal": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      },
+      "days": {
+        "type": "int"
+      },
+      "revisions": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxAddOptions": "Thêm tuỳ chọn",
+  "inboxServiceOptions": "Tuỳ chọn dịch vụ",
+  "inboxSelectedN": "Đã chọn {n}",
+  "@inboxSelectedN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxOfferSettings": "Thiết lập báo giá",
+  "inboxRequireInfo": "Yêu cầu khách gửi thông tin",
+  "inboxRequireInfoDesc": "Khách cần trả lời câu hỏi yêu cầu trước khi bắt đầu",
+  "inboxSaveTemplate": "Lưu làm mẫu",
+  "inboxReuseTemplate": "Dùng lại cho các báo giá sau",
+  "inboxTemplateNameHint": "Đặt tên cho mẫu",
+  "inboxSendMilestoneOffer": "Gửi báo giá cột mốc",
+  "inboxSendOffer": "Gửi báo giá",
+  "inboxMilestoneN": "Cột mốc {n}",
+  "@inboxMilestoneN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxDeleteMilestone": "Xoá cột mốc",
+  "inboxDeleteMilestoneTitle": "Xoá cột mốc này?",
+  "inboxMsTitleHeader": "Tên cột mốc",
+  "inboxMsTitleHint": "VD: Wireframe & concept",
+  "inboxDescHeader": "Mô tả",
+  "inboxMsDescHint": "Sản phẩm bàn giao, phạm vi công việc…",
+  "inboxMsPriceLabel": "Giá (tối thiểu {price})",
+  "@inboxMsPriceLabel": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxViewOffer": "Xem báo giá",
+  "inboxViewMilestoneOffer": "Xem báo giá theo cột mốc",
+  "inboxOfferNotFound": "Không tìm thấy báo giá",
+  "inboxOfferNotFoundMessage": "Báo giá này có thể đã bị xoá.",
+  "inboxFirstMilestoneCharge": "Bạn chỉ bị tính phí cho cột mốc đầu tiên ({price}).",
+  "@inboxFirstMilestoneCharge": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxContinueCheckout": "Tiếp tục thanh toán",
+  "inboxOfferStatusBanner": "Báo giá này {status}.",
+  "@inboxOfferStatusBanner": {
+    "placeholders": {
+      "status": {
+        "type": "String"
+      }
+    }
+  },
+  "inboxOfferDetails": "Chi tiết báo giá",
+  "inboxDetailPrice": "Giá",
+  "inboxDetailTime": "Thời gian",
+  "inboxDetailRevisions": "Lượt sửa",
+  "inboxDetailExpires": "Hết hạn",
+  "inboxDetailRequirements": "Yêu cầu",
+  "inboxDetailRequirementsValue": "Cần gửi thông tin trước khi bắt đầu",
+  "inboxIncludes": "Bao gồm",
+  "inboxMilestoneDetails": "Chi tiết cột mốc",
+  "inboxMilestoneTooltip": "Người bán sẽ giao từng cột mốc. Bạn thanh toán cho từng cột mốc trước khi bắt đầu.",
+  "inboxTotal": "Tổng cộng",
+  "inboxMilestoneLine": "{days} ngày | {price} | {revisions} lượt sửa",
+  "@inboxMilestoneLine": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      },
+      "price": {
+        "type": "String"
+      },
+      "revisions": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxOpening": "Đang mở cuộc trò chuyện…",
+  "inboxOpenFailed": "Không mở được cuộc trò chuyện",
+  "inboxForwardTitle": "Chuyển tiếp tin nhắn",
+  "inboxRecentConversations": "Cuộc trò chuyện gần đây",
+  "inboxNoOtherConversations": "Chưa có cuộc trò chuyện khác",
+  "inboxForwardCount": "Chuyển tiếp ({n})",
+  "@inboxForwardCount": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "inboxAddNew": "Thêm mới",
+  "inboxQuickEmptyTitle": "Chưa có mẫu trả lời nhanh",
+  "inboxQuickEmptyMessage": "Tạo mẫu để trả lời khách hàng chỉ với một chạm.",
+  "inboxQuickSaved": "Đã lưu mẫu trả lời nhanh",
+  "inboxQuickNewTitle": "Trả lời nhanh mới",
+  "inboxQuickName": "Tên",
+  "inboxQuickNameHint": "Đặt tên cho mẫu trả lời",
+  "inboxQuickBody": "Nội dung tin nhắn",
+  "inboxQuickBodyHint": "Nhập nội dung…",
+  "inboxQuickTip": "Mẹo: gõ {token} để tự động chèn tên người nhận.",
+  "@inboxQuickTip": {
+    "placeholders": {
+      "token": {
+        "type": "String"
+      }
+    }
+  }
+}
